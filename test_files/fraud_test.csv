@@ -1,0 +1,1001 @@
+Date_Time,Customer ID,Credit_usage,Credit,Purpose,Current_balance,Average_Credit_Balance,Employment,Location,Gender,status,Residence_Since,Property_Magnitude,CC_Age,Housing,paid_Credits,Job,Num_dependents,Telephone,Foreign_worker,Is_Fraud
+6/8/2016 18:42,202001,6, critical,radio/tv,1169, no known savings , >=7 ,4, male,single ,4, real estate ,67,own,2,skilled,1,yes,yes,0
+3/5/2016 15:08,202002,48,paid,radio/tv,5951, <100 ,4-Jan,2, female,div/dep/mar ,2, real estate ,22,own,1,skilled,1,none,yes,1
+1/7/2016 20:21,202003,12, critical,education,2096, <100 ,7-Apr,2, male,single ,3, real estate ,49,own,1, unskilled resident ,2,none,yes,0
+9/11/2015 16:11,202004,42,paid,furniture/equipment,7882, <100 ,7-Apr,2, male,single ,4, life insurance ,45, for free ,1,skilled,2,none,yes,0
+6/5/2016 20:57,202005,24, delayed, new car ,4870, <100 ,4-Jan,3, male,single ,4, no known property ,53, for free ,2,skilled,2,none,yes,1
+2/16/2015 20:18,202006,36,paid,education,9055, no known savings ,4-Jan,2, male,single ,4, no known property ,35, for free ,1, unskilled resident ,2,yes,yes,0
+12/27/2015 22:27,202007,24,paid,furniture/equipment,2835,500-1000 , >=7 ,3, male,single ,4, life insurance ,53,own,1,skilled,1,none,yes,0
+5/23/2015 13:24,202008,36,paid, used car ,6948, <100 ,4-Jan,2, male,single ,2,car,35,rent,1, high qualif/self emp/mgmt ,1,yes,yes,0
+2/28/2016 11:55,202009,12,paid,radio/tv,3059, >=1000 ,7-Apr,2, male,div/sep ,4, real estate ,61,own,1, unskilled resident ,1,none,yes,0
+5/12/2015 17:49,202010,30, critical, new car ,5234, <100 ,unemployed,4, male,mar/wid ,2,car,28,own,2, high qualif/self emp/mgmt ,1,none,yes,1
+5/2/2016 16:05,202011,12,paid, new car ,1295, <100 , <1 ,3, female,div/dep/mar ,1,car,25,rent,1,skilled,1,none,yes,1
+11/29/2015 8:40,202012,48,paid,business,4308, <100 , <1 ,3, female,div/dep/mar ,4, life insurance ,24,rent,1,skilled,1,none,yes,1
+5/22/2016 10:56,202013,12,paid,radio/tv,1567, <100 ,4-Jan,1, female,div/dep/mar ,1,car,22,own,1,skilled,1,yes,yes,0
+5/11/2015 13:37,202014,24, critical, new car ,1199, <100 , >=7 ,4, male,single ,4,car,60,own,2, unskilled resident ,1,none,yes,1
+12/9/2015 16:49,202015,15,paid, new car ,1403, <100 ,4-Jan,2, female,div/dep/mar ,4,car,28,rent,1,skilled,1,none,yes,0
+8/14/2015 9:48,202016,24,paid,radio/tv,1282,100-500 ,4-Jan,4, female,div/dep/mar ,2,car,32,own,1, unskilled resident ,1,none,yes,1
+4/18/2015 15:08,202017,24, critical,radio/tv,2424, no known savings , >=7 ,4, male,single ,4, life insurance ,53,own,2,skilled,1,none,yes,0
+6/19/2015 18:20,202018,30, no,business,8072, no known savings , <1 ,2, male,single ,3,car,25,own,3,skilled,1,none,yes,0
+5/31/2015 21:03,202019,24,paid, used car ,12579, <100 , >=7 ,4, female,div/dep/mar ,2, no known property ,44, for free ,1, high qualif/self emp/mgmt ,1,yes,yes,1
+9/25/2015 17:25,202020,24,paid,radio/tv,3430,500-1000 , >=7 ,3, male,single ,2,car,31,own,1,skilled,2,yes,yes,0
+7/30/2015 12:24,202021,9, critical, new car ,2134, <100 ,4-Jan,4, male,single ,4,car,48,own,3,skilled,1,yes,yes,0
+6/2/2015 10:30,202022,6,paid,radio/tv,2647,500-1000 ,4-Jan,2, male,single ,3, real estate ,44,rent,1,skilled,2,none,yes,0
+4/14/2016 12:50,202023,10, critical, new car ,2241, <100 , <1 ,1, male,single ,3, real estate ,48,rent,2, unskilled resident ,2,none,no,0
+9/22/2015 18:39,202024,12, critical, used car ,1804,100-500 , <1 ,3, male,single ,4, life insurance ,44,own,1,skilled,1,none,yes,0
+2/17/2016 15:39,202025,10, critical,furniture/equipment,2069, no known savings ,4-Jan,2, male,mar/wid ,1,car,26,own,2,skilled,1,none,no,0
+7/11/2015 22:03,202026,6,paid,furniture/equipment,1374, <100 ,4-Jan,1, male,single ,2, real estate ,36,own,1, unskilled resident ,1,yes,yes,0
+4/9/2016 15:31,202027,6, no,radio/tv,426, <100 , >=7 ,4, male,mar/wid ,4,car,39,own,1, unskilled resident ,1,none,yes,0
+12/19/2015 8:31,202028,12, all,radio/tv,409, >=1000 ,4-Jan,3, female,div/dep/mar ,3, real estate ,42,rent,2,skilled,1,none,yes,0
+12/5/2015 20:10,202029,7,paid,radio/tv,2415, <100 ,4-Jan,3, male,single ,2, real estate ,34,own,1,skilled,1,none,yes,0
+8/11/2015 12:54,202030,60, delayed,business,6836, <100 , >=7 ,3, male,single ,4, no known property ,63,own,2,skilled,1,yes,yes,1
+9/2/2015 21:00,202031,18,paid,business,1913, >=1000 , <1 ,3, male,mar/wid ,3, real estate ,36,own,1,skilled,1,yes,yes,0
+5/21/2016 16:31,202032,24,paid,furniture/equipment,4020, <100 ,4-Jan,2, male,single ,2,car,27,own,1,skilled,1,none,yes,0
+10/19/2015 14:59,202033,18,paid, new car ,5866,100-500 ,4-Jan,2, male,single ,2,car,30,own,2,skilled,1,yes,yes,0
+3/17/2016 8:45,202034,12, critical,business,1264, no known savings , >=7 ,4, male,single ,4, no known property ,57,rent,1, unskilled resident ,1,none,yes,0
+9/8/2015 10:34,202035,12,paid,furniture/equipment,1474, <100 , <1 ,4, female,div/dep/mar ,1, life insurance ,33,own,1, high qualif/self emp/mgmt ,1,yes,yes,0
+3/20/2016 22:03,202036,45, critical,radio/tv,4746, <100 , <1 ,4, male,single ,2, life insurance ,25,own,2, unskilled resident ,1,none,yes,1
+4/26/2015 15:03,202037,48, critical,education,6110, <100 ,4-Jan,1, male,single ,3, no known property ,31, for free ,1,skilled,1,yes,yes,0
+1/12/2015 17:43,202038,18,paid,radio/tv,2100, <100 ,4-Jan,4, male,single ,2, real estate ,37,own,1,skilled,1,none,yes,1
+1/4/2016 10:41,202039,10,paid, domestic appliance ,1225, <100 ,4-Jan,2, male,single ,2,car,37,own,1,skilled,1,yes,yes,0
+3/25/2015 15:13,202040,9,paid,radio/tv,458, <100 ,4-Jan,4, male,single ,3, real estate ,24,own,1,skilled,1,none,yes,0
+1/28/2016 19:41,202041,30,paid,radio/tv,2333,500-1000 , >=7 ,4, male,single ,2,car,30,own,1, high qualif/self emp/mgmt ,1,none,yes,0
+12/18/2015 16:07,202042,12,paid,radio/tv,1158,500-1000 ,4-Jan,3, male,div/sep ,1,car,26,own,1,skilled,1,yes,yes,0
+8/13/2015 16:07,202043,18, delayed,repairs,6204, <100 ,4-Jan,2, male,single ,4, real estate ,44,own,1, unskilled resident ,2,yes,yes,0
+8/11/2015 12:02,202044,30, critical, used car ,6187,100-500 ,7-Apr,1, male,mar/wid ,4,car,24,rent,2,skilled,1,none,yes,0
+11/3/2015 17:07,202045,48, critical, used car ,6143, <100 , >=7 ,4, female,div/dep/mar ,4, no known property ,58, for free ,2, unskilled resident ,1,none,yes,1
+2/5/2016 19:27,202046,11, critical, new car ,1393, <100 , <1 ,4, female,div/dep/mar ,4,car,35,own,2, high qualif/self emp/mgmt ,1,none,yes,0
+1/26/2015 18:24,202047,36,paid,radio/tv,2299,500-1000 , >=7 ,4, male,single ,4,car,39,own,1,skilled,1,none,yes,0
+3/1/2015 14:15,202048,6,paid, used car ,1352,500-1000 ,unemployed,1, female,div/dep/mar ,2, life insurance ,23,rent,1, unemp/unskilled non res ,1,yes,yes,0
+4/6/2015 12:38,202049,11, critical, new car ,7228, <100 ,4-Jan,1, male,single ,4, life insurance ,39,own,2, unskilled resident ,1,none,yes,0
+3/1/2015 8:37,202050,12,paid,radio/tv,2073,100-500 ,4-Jan,4, female,div/dep/mar ,2, real estate ,28,own,1,skilled,1,none,yes,0
+6/23/2016 22:46,202051,24, delayed,furniture/equipment,2333, no known savings , <1 ,4, male,single ,2, life insurance ,29,own,1, unskilled resident ,1,none,yes,0
+4/20/2015 15:25,202052,27, delayed, used car ,5965, <100 , >=7 ,1, male,single ,2,car,30,own,2, high qualif/self emp/mgmt ,1,yes,yes,0
+11/15/2015 20:20,202053,12,paid,radio/tv,1262, <100 ,4-Jan,3, male,single ,2,car,25,own,1,skilled,1,none,yes,0
+6/9/2015 9:53,202054,18,paid, used car ,3378, no known savings ,4-Jan,2, male,single ,1, life insurance ,31,own,1,skilled,1,yes,yes,0
+5/6/2016 8:29,202055,36, delayed, new car ,2225, <100 , >=7 ,4, male,single ,4, no known property ,57, for free ,2,skilled,1,yes,yes,1
+5/24/2015 14:04,202056,6, all, new car ,783, no known savings ,4-Jan,1, male,single ,2, real estate ,26,own,1, unskilled resident ,2,none,yes,0
+7/26/2015 12:16,202057,12,paid,radio/tv,6468, no known savings ,unemployed,2, male,single ,1, no known property ,52,own,1, high qualif/self emp/mgmt ,1,yes,yes,1
+6/20/2015 8:16,202058,36, critical,radio/tv,9566, <100 ,4-Jan,2, female,div/dep/mar ,2,car,31,own,2,skilled,1,none,yes,0
+6/12/2015 21:25,202059,18,paid, new car ,1961, <100 , >=7 ,3, female,div/dep/mar ,2,car,23,own,1, high qualif/self emp/mgmt ,1,none,yes,0
+2/14/2015 16:16,202060,36, critical,furniture/equipment,6229, <100 , <1 ,4, female,div/dep/mar ,4, no known property ,23,rent,2, unskilled resident ,1,yes,yes,1
+3/3/2015 15:37,202061,9,paid,business,1391, <100 ,4-Jan,2, male,mar/wid ,1, real estate ,27,own,1,skilled,1,yes,yes,0
+2/11/2015 16:50,202062,15, critical,radio/tv,1537, no known savings , >=7 ,4, male,single ,4, real estate ,50,own,2,skilled,1,yes,yes,0
+6/19/2016 21:35,202063,36, no,business,1953, <100 , >=7 ,4, male,single ,4, no known property ,61, for free ,1, high qualif/self emp/mgmt ,1,yes,yes,1
+4/14/2016 10:59,202064,48, no,business,14421, <100 ,4-Jan,2, male,single ,2,car,25,own,1,skilled,1,yes,yes,1
+9/24/2015 15:11,202065,24,paid,radio/tv,3181, <100 , <1 ,4, female,div/dep/mar ,4, life insurance ,26,own,1,skilled,1,yes,yes,0
+10/25/2015 13:43,202066,27,paid,repairs,5190, no known savings , >=7 ,4, male,single ,4, life insurance ,48,own,4,skilled,2,yes,yes,0
+9/25/2015 22:03,202067,12,paid,radio/tv,2171, <100 , <1 ,2, female,div/dep/mar ,2,car,29,own,1,skilled,1,none,yes,0
+11/10/2015 15:13,202068,12,paid, new car ,1007, >=1000 ,4-Jan,4, male,mar/wid ,1, real estate ,22,own,1,skilled,1,none,yes,0
+11/11/2015 13:00,202069,36,paid,education,1819, <100 ,4-Jan,4, male,single ,4, no known property ,37, for free ,1,skilled,1,yes,yes,1
+10/24/2015 15:51,202070,36,paid,radio/tv,2394, no known savings ,4-Jan,4, female,div/dep/mar ,4,car,25,own,1,skilled,1,none,yes,0
+1/8/2016 11:54,202071,36,paid, used car ,8133, <100 ,4-Jan,1, female,div/dep/mar ,2, life insurance ,30,own,1,skilled,1,none,yes,0
+2/15/2016 8:26,202072,7, critical,radio/tv,730, no known savings , >=7 ,4, male,single ,2, life insurance ,46,rent,2, unskilled resident ,1,yes,yes,0
+7/6/2015 8:15,202073,8, critical,other,1164, <100 , >=7 ,3, male,single ,4, no known property ,51, for free ,2, high qualif/self emp/mgmt ,2,yes,yes,0
+4/2/2015 15:04,202074,42, critical,business,5954, <100 ,7-Apr,2, female,div/dep/mar ,1, real estate ,41,own,2, unskilled resident ,1,none,yes,0
+3/11/2016 10:52,202075,36,paid,education,1977, no known savings , >=7 ,4, male,single ,4, no known property ,40,own,1, high qualif/self emp/mgmt ,1,yes,yes,1
+10/6/2015 14:36,202076,12, critical, used car ,1526, <100 , >=7 ,4, male,single ,4, no known property ,66, for free ,2, high qualif/self emp/mgmt ,1,none,yes,0
+7/21/2015 19:20,202077,42,paid,radio/tv,3965, <100 , <1 ,4, male,single ,3,car,34,own,1,skilled,1,none,yes,1
+2/20/2016 13:51,202078,11, delayed,radio/tv,4771, <100 ,7-Apr,2, male,single ,4, life insurance ,51,own,1,skilled,1,none,yes,0
+4/22/2015 16:40,202079,54, no, used car ,9436, no known savings ,4-Jan,2, male,single ,2, life insurance ,39,own,1, unskilled resident ,2,none,yes,0
+5/11/2015 20:09,202080,30,paid,furniture/equipment,3832, <100 , <1 ,2, male,mar/wid ,1, life insurance ,22,own,1,skilled,1,none,yes,0
+1/15/2015 19:03,202081,24,paid,radio/tv,5943, no known savings , <1 ,1, female,div/dep/mar ,1,car,44,own,2,skilled,1,yes,yes,1
+10/1/2015 12:27,202082,15,paid,radio/tv,1213,500-1000 , >=7 ,4, male,single ,3, life insurance ,47,own,1,skilled,1,yes,yes,0
+4/20/2015 13:37,202083,18,paid,business,1568,100-500 ,4-Jan,3, female,div/dep/mar ,4, life insurance ,24,rent,1, unskilled resident ,1,none,yes,0
+7/22/2015 9:40,202084,24,paid,other,1755, <100 , >=7 ,4, female,div/dep/mar ,4, real estate ,58,own,1, unskilled resident ,1,yes,yes,0
+3/16/2015 21:45,202085,10,paid,radio/tv,2315, <100 , >=7 ,3, male,single ,4, real estate ,52,own,1, unskilled resident ,1,none,yes,0
+7/29/2015 12:24,202086,12, critical,business,1412, <100 ,4-Jan,4, female,div/dep/mar ,2, real estate ,29,own,2, high qualif/self emp/mgmt ,1,yes,yes,0
+10/15/2015 11:30,202087,18, critical,furniture/equipment,1295, <100 , <1 ,4, female,div/dep/mar ,1, life insurance ,27,own,2,skilled,1,none,yes,0
+10/18/2015 21:33,202088,36,paid,education,12612,100-500 ,4-Jan,1, male,single ,4, no known property ,47, for free ,1,skilled,2,yes,yes,1
+5/26/2015 14:28,202089,18,paid, new car ,2249,100-500 ,7-Apr,4, male,single ,3,car,30,own,1, high qualif/self emp/mgmt ,2,yes,yes,0
+10/3/2015 20:09,202090,12, no,repairs,1108, <100 ,7-Apr,4, male,single ,3, real estate ,28,own,2,skilled,1,none,yes,1
+4/28/2016 20:48,202091,12, critical,radio/tv,618, <100 , >=7 ,4, male,single ,4, real estate ,56,own,1,skilled,1,none,yes,0
+11/13/2015 21:51,202092,12, critical, used car ,1409, <100 , >=7 ,4, male,single ,3, real estate ,54,own,1,skilled,1,none,yes,0
+1/15/2015 11:42,202093,12, critical,radio/tv,797, no known savings , >=7 ,4, female,div/dep/mar ,3, life insurance ,33,own,1, unskilled resident ,2,none,yes,1
+2/2/2015 22:45,202094,24, critical,furniture/equipment,3617, no known savings , >=7 ,4, male,single ,4, no known property ,20,rent,2,skilled,1,none,yes,0
+9/7/2015 19:42,202095,12,paid, new car ,1318, >=1000 , >=7 ,4, male,single ,4, real estate ,54,own,1,skilled,1,yes,yes,0
+8/29/2015 20:25,202096,54, no,business,15945, <100 , <1 ,3, male,single ,4, no known property ,58,rent,1,skilled,1,yes,yes,1
+8/20/2015 21:08,202097,12, critical,education,2012, no known savings ,7-Apr,4, female,div/dep/mar ,2,car,61,own,1,skilled,1,none,yes,0
+2/12/2015 20:28,202098,18,paid,business,2622,100-500 ,4-Jan,4, male,single ,4,car,34,own,1,skilled,1,none,yes,0
+9/25/2015 21:31,202099,36, critical,radio/tv,2337, <100 , >=7 ,4, male,single ,4, real estate ,36,own,1,skilled,1,none,yes,0
+1/12/2015 18:59,202100,20, delayed, used car ,7057, no known savings ,7-Apr,3, male,single ,4, life insurance ,36,rent,2, high qualif/self emp/mgmt ,2,yes,yes,0
+8/16/2015 16:56,202101,24,paid, new car ,1469,100-500 , >=7 ,4, male,mar/wid ,4, real estate ,41,rent,1, unskilled resident ,1,none,yes,0
+7/13/2015 22:03,202102,36,paid,radio/tv,2323, <100 ,7-Apr,4, male,single ,4,car,24,rent,1,skilled,1,none,yes,0
+9/14/2015 12:09,202103,6, delayed,radio/tv,932, <100 ,4-Jan,3, female,div/dep/mar ,2, real estate ,24,own,1,skilled,1,none,yes,0
+5/17/2015 14:48,202104,9, critical,furniture/equipment,1919, <100 ,7-Apr,4, male,single ,3,car,35,rent,1,skilled,1,yes,yes,0
+6/24/2015 15:48,202105,12,paid, used car ,2445, no known savings , <1 ,2, male,mar/wid ,4,car,26,rent,1,skilled,1,yes,yes,0
+2/15/2016 17:21,202106,24, critical,other,11938, <100 ,4-Jan,2, male,single ,3,car,39,own,2, high qualif/self emp/mgmt ,2,yes,yes,1
+6/29/2015 21:51,202107,18, all, new car ,6458, <100 , >=7 ,2, male,single ,4, no known property ,39,own,2, high qualif/self emp/mgmt ,2,yes,yes,1
+12/1/2015 12:15,202108,12,paid, new car ,6078, <100 ,7-Apr,2, male,single ,2,car,32,own,1,skilled,1,none,yes,0
+11/23/2015 10:42,202109,24,paid,furniture/equipment,7721, no known savings , <1 ,1, female,div/dep/mar ,2, life insurance ,30,own,1,skilled,1,yes,no,0
+2/25/2015 22:32,202110,14,paid,business,1410,500-1000 , >=7 ,1, male,mar/wid ,2, real estate ,35,own,1,skilled,1,yes,yes,0
+2/6/2015 18:44,202111,6, delayed,business,1449,100-500 , >=7 ,1, male,div/sep ,2,car,31,own,2,skilled,2,none,yes,0
+6/22/2016 17:56,202112,15,paid,education,392, <100 , <1 ,4, female,div/dep/mar ,4, life insurance ,23,rent,1,skilled,1,yes,yes,0
+3/17/2016 19:21,202113,18,paid, new car ,6260, <100 ,7-Apr,3, male,single ,3, real estate ,28,rent,1, unskilled resident ,1,none,yes,0
+8/14/2015 14:24,202114,36, critical, new car ,7855, <100 ,4-Jan,4, female,div/dep/mar ,2, real estate ,25,own,2,skilled,1,yes,yes,1
+11/7/2015 14:14,202115,12,paid,radio/tv,1680,500-1000 , >=7 ,3, male,mar/wid ,1, real estate ,35,own,1,skilled,1,none,yes,0
+3/21/2015 8:35,202116,48, critical,radio/tv,3578, no known savings , >=7 ,4, male,single ,1, real estate ,47,own,1,skilled,1,yes,yes,0
+1/16/2016 15:26,202117,42,paid,radio/tv,7174, no known savings ,7-Apr,4, female,div/dep/mar ,3,car,30,own,1, high qualif/self emp/mgmt ,1,yes,yes,1
+5/3/2015 13:46,202118,10, critical,furniture/equipment,2132, no known savings , <1 ,2, female,div/dep/mar ,3, real estate ,27,rent,2,skilled,1,none,no,0
+3/28/2016 18:19,202119,33, critical,furniture/equipment,4281,500-1000 ,4-Jan,1, female,div/dep/mar ,4,car,23,own,2,skilled,1,none,yes,1
+3/14/2016 16:51,202120,12, critical, new car ,2366,500-1000 ,7-Apr,3, male,div/sep ,3,car,36,own,1, high qualif/self emp/mgmt ,1,yes,yes,0
+10/3/2015 13:56,202121,21,paid,radio/tv,1835, <100 ,4-Jan,3, female,div/dep/mar ,2, real estate ,25,own,2,skilled,1,yes,yes,1
+11/8/2015 22:51,202122,24, critical, used car ,3868, <100 , >=7 ,4, female,div/dep/mar ,2,car,41,rent,2, high qualif/self emp/mgmt ,1,yes,yes,0
+12/19/2015 21:58,202123,12,paid,furniture/equipment,1768, <100 ,4-Jan,3, male,single ,2, real estate ,24,rent,1, unskilled resident ,1,none,yes,0
+1/13/2016 14:52,202124,10, critical, new car ,781, <100 , >=7 ,4, male,single ,4, no known property ,63, for free ,2,skilled,1,yes,yes,0
+12/24/2015 11:54,202125,18,paid,furniture/equipment,1924, no known savings , <1 ,4, female,div/dep/mar ,3, real estate ,27,rent,1,skilled,1,none,yes,1
+9/10/2015 18:08,202126,12, critical, new car ,2121, <100 ,4-Jan,4, male,single ,2, life insurance ,30,own,2,skilled,1,none,yes,0
+7/28/2015 11:22,202127,12,paid,radio/tv,701, <100 ,4-Jan,4, male,mar/wid ,2, real estate ,40,own,1, unskilled resident ,1,none,yes,0
+2/5/2016 13:01,202128,12,paid,repairs,639, <100 ,4-Jan,4, male,single ,2,car,30,own,1,skilled,1,none,yes,1
+10/17/2015 14:05,202129,12, critical, used car ,1860, <100 ,unemployed,4, male,single ,2,car,34,own,2, high qualif/self emp/mgmt ,1,yes,yes,0
+7/29/2015 20:17,202130,12, critical, new car ,3499, <100 ,4-Jan,3, female,div/dep/mar ,2, real estate ,29,own,2,skilled,1,none,yes,1
+4/5/2015 8:10,202131,48,paid, new car ,8487, no known savings ,7-Apr,1, female,div/dep/mar ,2,car,24,own,1,skilled,1,none,yes,0
+1/24/2016 18:19,202132,36, delayed,education,6887, <100 ,4-Jan,4, male,single ,3, life insurance ,29,own,1,skilled,1,yes,yes,1
+7/27/2015 11:16,202133,15,paid,furniture/equipment,2708, <100 , <1 ,2, male,single ,3, life insurance ,27,own,2, unskilled resident ,1,none,yes,0
+11/29/2015 14:51,202134,18,paid,furniture/equipment,1984, <100 ,4-Jan,4, male,single ,4, no known property ,47, for free ,2,skilled,1,none,yes,0
+5/8/2015 15:47,202135,60,paid,radio/tv,10144,100-500 ,7-Apr,2, female,div/dep/mar ,4, real estate ,21,own,1,skilled,1,yes,yes,0
+11/20/2015 10:32,202136,12, critical,radio/tv,1240, no known savings , >=7 ,4, female,div/dep/mar ,2, real estate ,38,own,2,skilled,1,yes,yes,0
+5/16/2015 21:31,202137,27, delayed, used car ,8613, >=1000 ,4-Jan,2, male,single ,2,car,27,own,2,skilled,1,none,yes,0
+3/27/2015 8:46,202138,12,paid,radio/tv,766,500-1000 ,4-Jan,4, male,single ,3, real estate ,66,own,1, unskilled resident ,1,none,yes,1
+6/3/2015 8:53,202139,15, critical,radio/tv,2728, no known savings ,7-Apr,4, male,single ,2, real estate ,35,own,3,skilled,1,yes,yes,0
+5/14/2015 12:28,202140,12,paid,radio/tv,1881, <100 ,4-Jan,2, female,div/dep/mar ,2,car,44,rent,1, unskilled resident ,1,yes,yes,0
+11/13/2015 21:24,202141,6,paid, new car ,709, >=1000 , <1 ,2, male,mar/wid ,2, real estate ,27,own,1, unemp/unskilled non res ,1,none,no,0
+7/15/2015 17:17,202142,36,paid,radio/tv,4795, <100 , <1 ,4, female,div/dep/mar ,1, no known property ,30,own,1, high qualif/self emp/mgmt ,1,yes,yes,0
+4/20/2015 20:12,202143,27,paid,radio/tv,3416, <100 ,4-Jan,3, male,single ,2,car,27,own,1, high qualif/self emp/mgmt ,1,none,yes,0
+2/4/2015 18:10,202144,18,paid,furniture/equipment,2462, <100 ,4-Jan,2, male,single ,2,car,22,own,1,skilled,1,none,yes,1
+9/1/2015 13:00,202145,21, critical,furniture/equipment,2288, <100 , <1 ,4, female,div/dep/mar ,4, life insurance ,23,own,1,skilled,1,yes,yes,0
+8/6/2015 9:36,202146,48, all,business,3566,100-500 ,7-Apr,4, male,single ,2,car,30,own,1,skilled,1,none,yes,0
+1/6/2016 8:33,202147,6, critical, new car ,860, <100 , >=7 ,1, female,div/dep/mar ,4, no known property ,39,own,2,skilled,1,yes,yes,0
+8/17/2015 21:15,202148,12, critical, new car ,682,100-500 ,7-Apr,4, female,div/dep/mar ,3,car,51,own,2,skilled,1,yes,yes,0
+2/2/2016 12:11,202149,36, critical,furniture/equipment,5371, <100 ,4-Jan,3, male,single ,2, life insurance ,28,own,2,skilled,1,none,yes,0
+7/25/2015 14:00,202150,18, critical,radio/tv,1582, >=1000 , >=7 ,4, male,single ,4,car,46,own,2,skilled,1,none,yes,0
+8/4/2015 20:37,202151,6,paid,radio/tv,1346,100-500 , >=7 ,2, male,single ,4, no known property ,42, for free ,1,skilled,2,yes,yes,0
+2/19/2015 16:20,202152,10,paid,radio/tv,1924, <100 ,4-Jan,1, male,single ,4, life insurance ,38,own,1,skilled,1,yes,no,0
+4/7/2015 10:26,202153,36,paid,radio/tv,5848, <100 ,4-Jan,4, male,single ,1,car,24,own,1,skilled,1,none,yes,0
+5/25/2015 17:35,202154,24, critical, used car ,7758, >=1000 , >=7 ,2, female,div/dep/mar ,4, no known property ,29,rent,1,skilled,1,none,yes,0
+8/20/2015 16:07,202155,24, delayed,business,6967,100-500 ,7-Apr,4, male,single ,4,car,36,rent,1, high qualif/self emp/mgmt ,1,yes,yes,0
+1/19/2015 12:18,202156,12,paid,furniture/equipment,1282, <100 ,4-Jan,2, female,div/dep/mar ,4,car,20,rent,1,skilled,1,none,yes,1
+2/28/2016 22:39,202157,9, critical,repairs,1288,100-500 , >=7 ,3, male,single ,4, real estate ,48,own,2,skilled,2,none,no,0
+5/8/2015 18:48,202158,12, all,retraining,339, <100 , >=7 ,4, male,mar/wid ,1,car,45,own,1, unskilled resident ,1,none,yes,0
+2/4/2015 22:43,202159,24,paid, new car ,3512,100-500 ,7-Apr,2, male,single ,3,car,38,own,2,skilled,1,yes,yes,0
+4/6/2015 10:07,202160,6, critical,radio/tv,1898, no known savings ,4-Jan,1, male,single ,2, real estate ,34,own,2, unskilled resident ,2,none,yes,0
+6/27/2016 9:24,202161,24, critical,radio/tv,2872,100-500 , >=7 ,3, male,single ,4, real estate ,36,own,1,skilled,2,yes,yes,0
+7/3/2015 18:13,202162,18, critical, new car ,1055, <100 , <1 ,4, female,div/dep/mar ,1, life insurance ,30,own,2,skilled,1,none,yes,0
+12/21/2015 19:49,202163,15,paid, domestic appliance ,1262,500-1000 ,7-Apr,4, male,single ,3, life insurance ,36,own,2,skilled,1,yes,yes,0
+10/26/2015 9:53,202164,10,paid, new car ,7308, <100 ,unemployed,2, male,single ,4, no known property ,70, for free ,1, high qualif/self emp/mgmt ,1,yes,yes,0
+3/12/2016 9:38,202165,36,paid, new car ,909,500-1000 , >=7 ,4, male,single ,4, life insurance ,36,own,1,skilled,1,none,yes,0
+5/4/2015 11:08,202166,6,paid,furniture/equipment,2978,500-1000 ,4-Jan,1, male,single ,2,car,32,own,1,skilled,1,yes,yes,0
+4/9/2015 13:53,202167,18,paid,furniture/equipment,1131, <100 ,unemployed,4, female,div/dep/mar ,2,car,33,own,1,skilled,1,none,yes,1
+1/16/2015 10:18,202168,11,paid,furniture/equipment,1577, >=1000 , <1 ,4, female,div/dep/mar ,1, real estate ,20,own,1,skilled,1,none,yes,0
+5/16/2016 15:12,202169,24,paid,furniture/equipment,3972, <100 ,7-Apr,2, female,div/dep/mar ,4, life insurance ,25,rent,1,skilled,1,yes,yes,0
+7/7/2015 16:14,202170,24, critical,business,1935, <100 , >=7 ,4, male,div/sep ,4, real estate ,31,own,2,skilled,1,yes,yes,1
+5/13/2015 8:42,202171,15, no, new car ,950, <100 , >=7 ,4, male,single ,3,car,33,rent,2,skilled,2,none,yes,1
+6/11/2015 13:36,202172,12,paid,furniture/equipment,763, <100 ,4-Jan,4, female,div/dep/mar ,1, real estate ,26,own,1,skilled,1,yes,yes,0
+11/1/2015 16:16,202173,24, delayed,furniture/equipment,2064, <100 ,unemployed,3, female,div/dep/mar ,2, life insurance ,34,own,1, high qualif/self emp/mgmt ,1,yes,yes,1
+6/23/2015 14:16,202174,8,paid,radio/tv,1414, <100 ,4-Jan,4, male,single ,2, real estate ,33,own,1,skilled,1,none,no,0
+1/14/2016 10:46,202175,21, delayed,education,3414, <100 , <1 ,2, male,single ,1, life insurance ,26,own,2,skilled,1,none,yes,1
+1/8/2015 18:51,202176,30, all, used car ,7485, no known savings ,unemployed,4, female,div/dep/mar ,1, real estate ,53,own,1, high qualif/self emp/mgmt ,1,yes,yes,1
+5/27/2015 16:51,202177,12,paid,furniture/equipment,2577, <100 ,4-Jan,2, male,div/sep ,1,car,42,own,1,skilled,1,none,yes,0
+12/9/2015 16:14,202178,6, critical,radio/tv,338,500-1000 , >=7 ,4, male,single ,4,car,52,own,2,skilled,1,none,yes,0
+3/2/2015 22:54,202179,12,paid,radio/tv,1963, <100 ,7-Apr,4, male,single ,2,car,31,rent,2, high qualif/self emp/mgmt ,2,yes,yes,0
+3/4/2015 17:53,202180,21, critical, new car ,571, <100 , >=7 ,4, male,single ,4, real estate ,65,own,2,skilled,1,none,yes,0
+3/26/2015 21:44,202181,36, delayed,business,9572, <100 , <1 ,1, male,div/sep ,1,car,28,own,2,skilled,1,none,yes,1
+4/24/2016 11:53,202182,36, delayed,business,4455, <100 ,4-Jan,2, male,div/sep ,2, real estate ,30,own,2, high qualif/self emp/mgmt ,1,yes,yes,1
+4/5/2016 18:36,202183,21, all, new car ,1647, no known savings ,4-Jan,4, male,single ,2, life insurance ,40,own,2, unskilled resident ,2,none,yes,1
+1/9/2015 9:54,202184,24, critical,furniture/equipment,3777, >=1000 ,4-Jan,4, male,single ,4, real estate ,50,own,1,skilled,1,yes,yes,0
+3/20/2016 15:56,202185,18, critical, new car ,884, <100 , >=7 ,4, male,single ,4,car,36,own,1,skilled,2,yes,yes,1
+12/27/2015 17:53,202186,15, critical,radio/tv,1360, <100 ,4-Jan,4, male,single ,2, life insurance ,31,own,2,skilled,1,none,yes,0
+1/18/2015 20:15,202187,9, all, used car ,5129, <100 , >=7 ,2, female,div/dep/mar ,4, no known property ,74, for free ,1, high qualif/self emp/mgmt ,2,yes,yes,1
+3/2/2015 22:06,202188,16, critical, new car ,1175, <100 ,unemployed,2, male,single ,3,car,68, for free ,3, unemp/unskilled non res ,1,yes,yes,0
+3/28/2016 11:12,202189,12,paid,radio/tv,674,100-500 ,7-Apr,4, male,mar/wid ,1, life insurance ,20,own,1,skilled,1,none,yes,1
+2/23/2015 15:33,202190,18, no,furniture/equipment,3244, <100 ,4-Jan,1, female,div/dep/mar ,4,car,33,own,2,skilled,1,yes,yes,0
+12/23/2015 15:10,202191,24,paid,business,4591, >=1000 ,4-Jan,2, male,single ,3, life insurance ,54,own,3, high qualif/self emp/mgmt ,1,yes,yes,1
+11/17/2015 14:27,202192,48, no,business,3844,100-500 ,7-Apr,4, male,single ,4, no known property ,34, for free ,1, unskilled resident ,2,none,yes,1
+3/6/2015 12:15,202193,27,paid,business,3915, <100 ,4-Jan,4, male,single ,2,car,36,own,1,skilled,2,yes,yes,1
+9/5/2015 12:13,202194,6,paid,radio/tv,2108, <100 ,7-Apr,2, male,mar/wid ,2, real estate ,29,rent,1,skilled,1,none,yes,0
+1/25/2015 11:11,202195,45,paid,radio/tv,3031,100-500 ,4-Jan,4, male,single ,4, life insurance ,21,rent,1,skilled,1,none,yes,1
+4/22/2016 12:30,202196,9, critical,education,1501, <100 , >=7 ,2, female,div/dep/mar ,3,car,34,own,2, high qualif/self emp/mgmt ,1,yes,yes,1
+5/24/2015 15:46,202197,6, critical,radio/tv,1382, <100 ,4-Jan,1, female,div/dep/mar ,1,car,28,own,2,skilled,1,yes,yes,0
+1/8/2015 12:19,202198,12,paid,furniture/equipment,951,100-500 , <1 ,4, female,div/dep/mar ,4,car,27,rent,4,skilled,1,none,yes,1
+1/10/2015 17:00,202199,24,paid, used car ,2760, no known savings , >=7 ,4, male,single ,4, no known property ,36, for free ,1,skilled,1,yes,yes,0
+7/16/2015 22:15,202200,18, delayed,furniture/equipment,4297, <100 , >=7 ,4, male,div/sep ,3, no known property ,40,own,1, high qualif/self emp/mgmt ,1,yes,yes,1
+1/10/2015 8:34,202201,9, critical,education,936,500-1000 , >=7 ,4, male,single ,2,car,52,own,2,skilled,1,yes,yes,0
+12/10/2015 21:16,202202,12,paid, new car ,1168, <100 ,4-Jan,4, male,mar/wid ,3, real estate ,27,own,1, unskilled resident ,1,none,yes,0
+9/24/2015 15:53,202203,27, delayed,business,5117, <100 ,7-Apr,3, male,single ,4,car,26,own,2,skilled,1,none,yes,0
+3/3/2015 22:46,202204,12,paid,retraining,902, <100 ,7-Apr,4, male,mar/wid ,4, life insurance ,21,rent,1,skilled,1,none,yes,1
+1/4/2015 14:35,202205,12, critical, new car ,1495, <100 , >=7 ,4, male,single ,1, real estate ,38,own,2, unskilled resident ,2,none,yes,0
+1/17/2016 10:58,202206,30, critical, used car ,10623, <100 , >=7 ,3, male,single ,4, no known property ,38, for free ,3, high qualif/self emp/mgmt ,2,yes,yes,0
+3/4/2015 19:39,202207,12, critical,furniture/equipment,1935, <100 , >=7 ,4, male,single ,4, real estate ,43,own,3,skilled,1,yes,yes,0
+3/23/2015 20:48,202208,12, critical, domestic appliance ,1424, <100 ,7-Apr,4, male,single ,3, life insurance ,26,own,1,skilled,1,none,yes,0
+7/13/2015 13:20,202209,24,paid,business,6568, <100 ,4-Jan,2, male,mar/wid ,2,car,21,own,1, unskilled resident ,1,none,yes,0
+11/22/2015 18:58,202210,12,paid, used car ,1413, >=1000 ,7-Apr,3, male,single ,2, life insurance ,55,own,1,skilled,1,none,no,0
+11/3/2015 11:53,202211,9, critical,radio/tv,3074, no known savings ,4-Jan,1, male,single ,2, real estate ,33,own,2,skilled,2,none,yes,0
+1/11/2015 12:47,202212,36,paid,radio/tv,3835, no known savings , >=7 ,2, female,div/dep/mar ,4, real estate ,45,own,1, unskilled resident ,1,yes,yes,0
+6/15/2016 9:36,202213,27, no,business,5293, <100 ,unemployed,2, male,single ,4, life insurance ,50,own,2,skilled,1,yes,yes,1
+8/3/2015 15:08,202214,30, delayed,business,1908, <100 , >=7 ,4, male,single ,4, real estate ,66,own,1, high qualif/self emp/mgmt ,1,yes,yes,1
+5/23/2016 22:45,202215,36, critical,radio/tv,3342, no known savings , >=7 ,4, male,single ,2,car,51,own,1,skilled,1,yes,yes,0
+10/20/2015 19:55,202216,6, critical,retraining,932, no known savings ,7-Apr,1, female,div/dep/mar ,3, life insurance ,39,own,2, unskilled resident ,1,none,yes,0
+1/29/2015 17:12,202217,18, no,business,3104, <100 ,7-Apr,3, male,single ,1, life insurance ,31,own,1,skilled,1,yes,yes,0
+7/5/2015 16:50,202218,36,paid,radio/tv,3913, <100 ,4-Jan,2, male,single ,2, real estate ,23,own,1,skilled,1,yes,yes,0
+9/8/2015 10:43,202219,24,paid,furniture/equipment,3021, <100 ,4-Jan,2, male,div/sep ,2, real estate ,24,rent,1, unskilled resident ,1,none,yes,0
+11/8/2015 15:02,202220,10,paid, new car ,1364, <100 ,4-Jan,2, female,div/dep/mar ,4,car,64,own,1,skilled,1,yes,yes,0
+6/16/2015 20:52,202221,12,paid,radio/tv,625, <100 , <1 ,4, male,mar/wid ,1, real estate ,26,own,1, unskilled resident ,1,none,yes,0
+8/31/2015 15:02,202222,12,paid,education,1200, no known savings ,4-Jan,4, female,div/dep/mar ,4, life insurance ,23,rent,1,skilled,1,yes,yes,0
+9/29/2015 14:19,202223,12,paid,radio/tv,707, <100 ,4-Jan,4, male,single ,2, real estate ,30,own,2,skilled,1,none,yes,0
+5/31/2016 18:11,202224,24, delayed,business,2978, no known savings ,4-Jan,4, male,single ,4, real estate ,32,own,2,skilled,2,yes,yes,0
+3/1/2015 22:43,202225,15,paid, used car ,4657, <100 ,4-Jan,3, male,single ,2,car,30,own,1,skilled,1,yes,yes,0
+6/13/2016 18:22,202226,36, no,repairs,2613, <100 ,4-Jan,4, male,single ,2,car,27,own,2,skilled,1,none,yes,0
+3/30/2015 17:18,202227,48,paid,radio/tv,10961, >=1000 ,7-Apr,1, male,single ,2, no known property ,27,own,2,skilled,1,yes,yes,1
+4/6/2015 17:22,202228,12,paid,furniture/equipment,7865, <100 , >=7 ,4, male,single ,4, no known property ,53, for free ,1, high qualif/self emp/mgmt ,1,yes,yes,1
+8/3/2015 22:25,202229,9,paid,radio/tv,1478, <100 ,7-Apr,4, male,single ,2,car,22,own,1,skilled,1,none,yes,1
+2/24/2016 17:11,202230,24,paid,furniture/equipment,3149, <100 , <1 ,4, male,single ,1, no known property ,22, for free ,1,skilled,1,none,yes,0
+1/20/2015 14:02,202231,36,paid,radio/tv,4210, <100 ,4-Jan,4, male,single ,2,car,26,own,1,skilled,1,none,yes,1
+5/2/2016 8:18,202232,9,paid, new car ,2507,500-1000 , >=7 ,2, male,single ,4, no known property ,51, for free ,1, unskilled resident ,1,none,yes,0
+6/18/2016 21:07,202233,12,paid,radio/tv,2141,100-500 ,7-Apr,3, male,single ,1, no known property ,35,own,1,skilled,1,none,yes,0
+6/26/2016 9:36,202234,18,paid,radio/tv,866, <100 ,4-Jan,4, male,mar/wid ,2, real estate ,25,own,1, unskilled resident ,1,none,yes,0
+2/22/2016 9:35,202235,4, critical,radio/tv,1544, <100 ,7-Apr,2, male,single ,1, real estate ,42,own,3, unskilled resident ,2,none,yes,0
+7/19/2015 8:25,202236,24,paid,radio/tv,1823, <100 ,unemployed,4, male,single ,2,car,30,own,1, high qualif/self emp/mgmt ,2,none,yes,1
+10/22/2015 15:37,202237,6,paid, new car ,14555, no known savings ,unemployed,1, male,single ,2, life insurance ,23,own,1, unemp/unskilled non res ,1,yes,yes,1
+1/6/2015 18:13,202238,21,paid,business,2767,100-500 , >=7 ,4, male,div/sep ,2,car,61,rent,2, unskilled resident ,1,none,yes,1
+5/17/2016 14:39,202239,12, critical,radio/tv,1291, <100 ,4-Jan,4, female,div/dep/mar ,2, life insurance ,35,own,2,skilled,1,none,yes,0
+3/6/2015 19:28,202240,30,paid,radio/tv,2522, <100 , >=7 ,1, male,single ,3, life insurance ,39,own,1,skilled,2,none,yes,0
+2/8/2015 16:34,202241,24,paid, new car ,915, no known savings , >=7 ,4, female,div/dep/mar ,2,car,29,own,1,skilled,1,none,yes,1
+1/5/2015 22:27,202242,6,paid,radio/tv,1595, <100 ,7-Apr,3, male,single ,2, life insurance ,51,own,1,skilled,2,none,yes,0
+8/18/2015 13:17,202243,48, no, used car ,4605, <100 , >=7 ,3, male,single ,4, no known property ,24, for free ,2,skilled,2,none,yes,1
+9/18/2015 20:38,202244,12, critical,business,1185, <100 ,4-Jan,3, female,div/dep/mar ,2, real estate ,27,own,2,skilled,1,none,yes,0
+2/6/2016 9:58,202245,12, all,retraining,3447,500-1000 ,4-Jan,4, female,div/dep/mar ,3, real estate ,35,own,1, unskilled resident ,2,none,yes,0
+3/28/2015 8:36,202246,24,paid,business,1258, <100 ,7-Apr,4, male,single ,1, real estate ,25,own,1,skilled,1,yes,yes,0
+12/25/2015 15:42,202247,12, critical,radio/tv,717, <100 , >=7 ,4, male,single ,4, real estate ,52,own,3,skilled,1,none,yes,0
+5/2/2015 12:25,202248,6, no, new car ,1204,100-500 ,4-Jan,4, male,single ,1, no known property ,35,rent,1,skilled,1,none,no,0
+5/10/2015 9:37,202249,24,paid,furniture/equipment,1925, <100 ,4-Jan,2, male,single ,2, real estate ,26,own,1,skilled,1,none,yes,0
+5/26/2015 16:28,202250,18,paid,radio/tv,433, <100 ,unemployed,3, female,div/dep/mar ,4, real estate ,22,rent,1,skilled,1,none,yes,1
+6/28/2016 8:32,202251,6, critical, new car ,666, >=1000 ,7-Apr,3, female,div/dep/mar ,4, real estate ,39,own,2, unskilled resident ,1,yes,yes,0
+8/9/2015 22:04,202252,12,paid,furniture/equipment,2251, <100 ,4-Jan,1, female,div/dep/mar ,2,car,46,own,1, unskilled resident ,1,none,yes,0
+6/23/2015 19:57,202253,30,paid, new car ,2150, <100 ,4-Jan,4, female,div/dep/mar ,2, no known property ,24,own,1,skilled,1,none,yes,1
+1/17/2016 12:53,202254,24, delayed,furniture/equipment,4151,100-500 ,4-Jan,2, male,single ,3, life insurance ,35,own,2,skilled,1,none,yes,0
+8/7/2015 20:25,202255,9,paid,furniture/equipment,2030, no known savings ,7-Apr,2, male,single ,1,car,24,own,1,skilled,1,yes,yes,0
+7/4/2015 14:36,202256,60, delayed,radio/tv,7418, no known savings ,4-Jan,1, male,single ,1, real estate ,27,own,1, unskilled resident ,1,none,yes,0
+4/2/2015 13:50,202257,24, critical,radio/tv,2684, <100 ,4-Jan,4, male,single ,2, real estate ,35,own,2, unskilled resident ,1,none,yes,0
+6/6/2015 22:01,202258,12, all,radio/tv,2149, <100 ,4-Jan,4, male,div/sep ,1, no known property ,29, for free ,1,skilled,1,none,yes,1
+2/9/2016 13:18,202259,15,paid, used car ,3812,100-500 , <1 ,1, female,div/dep/mar ,4,car,23,own,1,skilled,1,yes,yes,0
+10/26/2015 15:01,202260,11, critical,radio/tv,1154,100-500 ,unemployed,4, female,div/dep/mar ,4, real estate ,57,own,3, unskilled resident ,1,none,yes,0
+9/29/2015 15:58,202261,12,paid,furniture/equipment,1657, <100 ,4-Jan,2, male,single ,2, real estate ,27,own,1,skilled,1,none,yes,0
+3/16/2015 9:03,202262,24,paid,radio/tv,1603, <100 , >=7 ,4, female,div/dep/mar ,4,car,55,own,1,skilled,1,none,yes,0
+5/3/2015 22:36,202263,18, critical, new car ,5302, <100 , >=7 ,2, male,single ,4, no known property ,36, for free ,3, high qualif/self emp/mgmt ,1,yes,yes,0
+12/8/2015 17:50,202264,12, critical,education,2748, <100 , >=7 ,2, female,div/dep/mar ,4, no known property ,57, for free ,3, unskilled resident ,1,none,yes,0
+11/23/2015 14:32,202265,10, critical, new car ,1231, <100 , >=7 ,3, male,single ,4, real estate ,32,own,2, unskilled resident ,2,none,no,0
+9/26/2015 12:19,202266,15,paid,radio/tv,802, <100 , >=7 ,4, male,single ,3,car,37,own,1,skilled,2,none,yes,1
+7/6/2015 22:40,202267,36, critical,business,6304, no known savings , >=7 ,4, male,single ,4, real estate ,36,own,2,skilled,1,none,yes,0
+7/26/2015 14:56,202268,24,paid,radio/tv,1533, <100 , <1 ,4, female,div/dep/mar ,3,car,38,own,1,skilled,1,yes,yes,0
+7/31/2015 16:55,202269,14,paid, new car ,8978, <100 , >=7 ,1, male,div/sep ,4, life insurance ,45,own,1, high qualif/self emp/mgmt ,1,yes,no,1
+2/12/2015 18:41,202270,24,paid,radio/tv,999, no known savings , >=7 ,4, male,single ,2,car,25,own,2,skilled,1,none,yes,0
+2/14/2015 16:22,202271,18,paid, new car ,2662, no known savings ,7-Apr,4, male,single ,3, life insurance ,32,own,1,skilled,1,none,no,0
+11/11/2015 17:33,202272,12, critical,furniture/equipment,1402,500-1000 ,7-Apr,3, female,div/dep/mar ,4,car,37,rent,1,skilled,1,yes,yes,0
+11/25/2015 21:28,202273,48, all, new car ,12169, no known savings ,unemployed,4, male,single ,4, no known property ,36, for free ,1, high qualif/self emp/mgmt ,1,yes,yes,0
+11/14/2015 10:57,202274,48,paid,radio/tv,3060, <100 ,7-Apr,4, male,single ,4, real estate ,28,own,2,skilled,1,none,yes,1
+1/18/2016 13:45,202275,30,paid,repairs,11998, <100 , <1 ,1, male,div/sep ,1, no known property ,34,own,1, unskilled resident ,1,yes,yes,1
+8/4/2015 16:53,202276,9,paid,radio/tv,2697, <100 ,4-Jan,1, male,single ,2, real estate ,32,own,1,skilled,2,none,yes,0
+5/13/2015 16:30,202277,18, critical,radio/tv,2404, <100 ,4-Jan,2, female,div/dep/mar ,2,car,26,own,2,skilled,1,none,yes,0
+2/15/2016 10:39,202278,12,paid,furniture/equipment,1262, no known savings , >=7 ,2, male,div/sep ,4, life insurance ,49,own,1, unskilled resident ,1,yes,yes,0
+12/7/2015 19:11,202279,6,paid,furniture/equipment,4611, <100 , <1 ,1, female,div/dep/mar ,4, life insurance ,32,own,1,skilled,1,none,yes,1
+2/15/2015 10:27,202280,24,paid,radio/tv,1901,100-500 ,4-Jan,4, male,single ,4,car,29,rent,1, high qualif/self emp/mgmt ,1,yes,yes,0
+2/21/2015 17:44,202281,15, critical, used car ,3368, >=1000 , >=7 ,3, male,single ,4, no known property ,23,rent,2,skilled,1,yes,yes,0
+11/25/2015 22:38,202282,12,paid,furniture/equipment,1574, <100 ,4-Jan,4, male,single ,2, real estate ,50,own,1,skilled,1,none,yes,0
+9/6/2015 8:34,202283,18, all,radio/tv,1445, no known savings ,7-Apr,4, male,single ,4,car,49,own,1, unskilled resident ,1,none,yes,0
+10/2/2015 18:26,202284,15, critical,furniture/equipment,1520, no known savings , >=7 ,4, male,single ,4, life insurance ,63,own,1,skilled,1,none,yes,0
+10/28/2015 18:01,202285,24, critical, new car ,3878,100-500 , <1 ,4, male,div/sep ,2,car,37,own,1,skilled,1,yes,yes,0
+5/10/2015 18:46,202286,47,paid, new car ,10722, <100 , <1 ,1, female,div/dep/mar ,1, real estate ,35,own,1, unskilled resident ,1,yes,yes,0
+12/27/2015 15:17,202287,48,paid, used car ,4788, <100 ,7-Apr,4, male,single ,3, life insurance ,26,own,1,skilled,2,none,yes,0
+9/18/2015 10:55,202288,48, delayed,other,7582,100-500 ,unemployed,2, male,single ,4, no known property ,31, for free ,1, high qualif/self emp/mgmt ,1,yes,yes,0
+2/6/2016 10:47,202289,12,paid,radio/tv,1092, <100 ,4-Jan,4, female,div/dep/mar ,4, real estate ,49,own,2,skilled,1,yes,yes,0
+3/31/2016 8:59,202290,24, delayed,radio/tv,1024, <100 , <1 ,4, male,mar/wid ,4, real estate ,48,own,1,skilled,1,none,yes,1
+1/15/2015 22:07,202291,12,paid,business,1076, <100 ,4-Jan,2, male,mar/wid ,2, real estate ,26,own,1,skilled,1,yes,no,0
+10/22/2015 10:47,202292,36,paid, used car ,9398, <100 , <1 ,1, male,mar/wid ,4,car,28,rent,1, high qualif/self emp/mgmt ,1,yes,yes,1
+11/12/2015 18:16,202293,24, critical, used car ,6419, <100 , >=7 ,2, female,div/dep/mar ,4, no known property ,44, for free ,2, high qualif/self emp/mgmt ,2,yes,yes,0
+1/18/2015 21:05,202294,42, critical, used car ,4796, <100 , >=7 ,4, male,single ,4, no known property ,56, for free ,1,skilled,1,none,yes,0
+4/24/2015 19:15,202295,48, critical,business,7629, no known savings , >=7 ,4, male,div/sep ,2,car,46,own,2, high qualif/self emp/mgmt ,2,none,yes,0
+7/9/2015 19:54,202296,48,paid,furniture/equipment,9960, <100 , <1 ,1, female,div/dep/mar ,2,car,26,own,1,skilled,1,yes,yes,1
+12/4/2015 18:08,202297,12,paid, used car ,4675, no known savings , <1 ,1, female,div/dep/mar ,4,car,20,rent,1,skilled,1,none,yes,0
+5/2/2015 8:22,202298,10,paid, new car ,1287, no known savings , >=7 ,4, male,single ,2, life insurance ,45,own,1, unskilled resident ,1,none,no,0
+9/9/2015 20:02,202299,18,paid,furniture/equipment,2515, <100 ,4-Jan,3, male,single ,4, real estate ,43,own,1,skilled,1,yes,yes,0
+5/18/2015 12:05,202300,21, critical,furniture/equipment,2745, >=1000 ,7-Apr,3, male,single ,2,car,32,own,2,skilled,1,yes,yes,0
+7/26/2015 15:24,202301,6,paid, new car ,672, <100 ,unemployed,1, female,div/dep/mar ,4, real estate ,54,own,1, unemp/unskilled non res ,1,yes,yes,0
+12/21/2015 9:47,202302,36, no,radio/tv,3804, <100 ,4-Jan,4, female,div/dep/mar ,1,car,42,own,1,skilled,1,yes,yes,1
+4/5/2015 18:03,202303,24, critical, new car ,1344, no known savings ,7-Apr,4, male,single ,2, real estate ,37,own,2, unskilled resident ,2,none,yes,1
+6/14/2016 13:11,202304,10, critical, new car ,1038, <100 ,7-Apr,4, male,single ,3, life insurance ,49,own,2,skilled,1,yes,yes,0
+8/6/2015 14:28,202305,48, critical, new car ,10127,500-1000 ,4-Jan,2, male,single ,2, no known property ,44, for free ,1,skilled,1,none,yes,1
+5/20/2016 20:09,202306,6,paid,furniture/equipment,1543, >=1000 ,4-Jan,4, male,div/sep ,2, real estate ,33,own,1,skilled,1,none,yes,0
+5/14/2015 16:19,202307,30,paid, used car ,4811, no known savings ,7-Apr,2, female,div/dep/mar ,4, life insurance ,24,rent,1, unskilled resident ,1,none,yes,0
+8/18/2015 10:43,202308,12,paid,radio/tv,727,100-500 , <1 ,4, male,mar/wid ,3, no known property ,33,own,1, unskilled resident ,1,yes,yes,1
+11/24/2015 22:11,202309,8,paid,furniture/equipment,1237, <100 ,4-Jan,3, female,div/dep/mar ,4, real estate ,24,own,1,skilled,1,none,yes,1
+3/27/2015 8:09,202310,9,paid, new car ,276, <100 ,4-Jan,4, male,mar/wid ,4, real estate ,22,rent,1, unskilled resident ,1,none,yes,0
+6/22/2016 15:46,202311,48,paid,other,5381, no known savings ,unemployed,3, male,single ,4, no known property ,40, for free ,1, unemp/unskilled non res ,1,yes,yes,0
+12/4/2015 11:29,202312,24,paid,furniture/equipment,5511,100-500 ,4-Jan,4, male,single ,1,car,25,own,1,skilled,1,none,yes,0
+3/23/2015 17:21,202313,24,paid,furniture/equipment,3749, <100 , <1 ,2, female,div/dep/mar ,4,car,26,own,1,skilled,1,none,yes,0
+6/1/2015 21:36,202314,12,paid, new car ,685, <100 ,7-Apr,2, male,mar/wid ,3,car,25,own,1, unskilled resident ,1,none,yes,1
+5/15/2016 8:20,202315,4,paid, new car ,1494, no known savings , <1 ,1, male,single ,2, real estate ,29,own,1, unskilled resident ,2,none,no,0
+7/8/2015 8:43,202316,36, all,furniture/equipment,2746, <100 , >=7 ,4, male,single ,4,car,31,own,1,skilled,1,none,yes,1
+7/14/2015 16:53,202317,12,paid,furniture/equipment,708, <100 ,4-Jan,2, male,single ,3, life insurance ,38,own,1, unskilled resident ,2,none,yes,0
+11/16/2015 18:13,202318,24,paid,furniture/equipment,4351, no known savings ,4-Jan,1, female,div/dep/mar ,4, life insurance ,48,own,1, unskilled resident ,1,yes,yes,0
+6/29/2015 8:34,202319,12, critical,education,701, <100 ,4-Jan,4, male,single ,2,car,32,own,2,skilled,1,none,yes,0
+5/18/2016 10:40,202320,15, delayed,furniture/equipment,3643, <100 , >=7 ,1, female,div/dep/mar ,4, life insurance ,27,own,2, unskilled resident ,1,none,yes,0
+3/25/2015 11:40,202321,30, critical, new car ,4249, <100 ,unemployed,4, male,mar/wid ,2,car,28,own,2, high qualif/self emp/mgmt ,1,none,yes,1
+12/30/2015 21:27,202322,24,paid,radio/tv,1938, <100 , <1 ,4, male,div/sep ,3, life insurance ,32,own,1,skilled,1,none,yes,1
+11/6/2015 18:59,202323,24,paid, used car ,2910, <100 ,7-Apr,2, male,single ,1, no known property ,34, for free ,1, high qualif/self emp/mgmt ,1,yes,yes,0
+4/19/2015 11:20,202324,18,paid,furniture/equipment,2659, >=1000 ,4-Jan,4, male,single ,2,car,28,own,1,skilled,1,none,yes,0
+4/4/2015 13:56,202325,18, critical, new car ,1028, <100 ,4-Jan,4, female,div/dep/mar ,3, real estate ,36,own,2,skilled,1,none,yes,0
+9/30/2015 17:08,202326,8, critical, new car ,3398, <100 ,7-Apr,1, male,single ,4, real estate ,39,own,2, unskilled resident ,1,none,no,0
+12/6/2015 10:13,202327,12, critical,furniture/equipment,5801, no known savings , >=7 ,2, male,single ,4, life insurance ,49,rent,1,skilled,1,yes,yes,0
+4/3/2016 20:02,202328,24,paid, new car ,1525, >=1000 ,7-Apr,4, female,div/dep/mar ,3,car,34,own,1,skilled,2,yes,yes,0
+9/15/2015 14:22,202329,36,paid,radio/tv,4473, <100 , >=7 ,4, male,single ,2,car,31,own,1,skilled,1,none,yes,0
+9/7/2015 10:02,202330,6,paid,radio/tv,1068, <100 , >=7 ,4, male,single ,4,car,28,own,1,skilled,2,none,yes,0
+5/7/2015 12:56,202331,24, critical, used car ,6615, <100 ,unemployed,2, male,single ,4, no known property ,75, for free ,2, high qualif/self emp/mgmt ,1,yes,yes,0
+4/23/2015 15:31,202332,18, critical,education,1864,100-500 ,4-Jan,4, female,div/dep/mar ,2, real estate ,30,own,2,skilled,1,none,yes,1
+6/10/2015 15:11,202333,60,paid, new car ,7408,100-500 , <1 ,4, female,div/dep/mar ,2, life insurance ,24,own,1, high qualif/self emp/mgmt ,1,none,yes,1
+12/21/2015 8:38,202334,48, critical, used car ,11590,100-500 ,4-Jan,2, female,div/dep/mar ,4,car,24,rent,2, unskilled resident ,1,none,yes,1
+8/11/2015 17:05,202335,24, no,furniture/equipment,4110, <100 , >=7 ,3, male,single ,4, no known property ,23,rent,2,skilled,2,none,yes,1
+3/15/2015 10:23,202336,6, critical,furniture/equipment,3384, <100 ,4-Jan,1, male,div/sep ,4, real estate ,44,rent,1, high qualif/self emp/mgmt ,1,yes,yes,1
+1/31/2016 9:27,202337,13,paid,radio/tv,2101, <100 , <1 ,2, female,div/dep/mar ,4, life insurance ,23,own,1, unskilled resident ,1,none,yes,0
+8/1/2015 8:39,202338,15,paid, domestic appliance ,1275, no known savings ,4-Jan,4, female,div/dep/mar ,2,car,24,rent,1,skilled,1,none,yes,1
+8/14/2015 15:13,202339,24,paid,furniture/equipment,4169, <100 ,4-Jan,4, male,single ,4, life insurance ,28,own,1,skilled,1,none,yes,0
+5/23/2015 8:33,202340,10,paid,furniture/equipment,1521, <100 ,4-Jan,4, male,div/sep ,2,car,31,own,1, unskilled resident ,1,none,yes,0
+2/3/2015 13:51,202341,24, critical,education,5743, <100 , <1 ,2, female,div/dep/mar ,4, no known property ,24, for free ,2,skilled,1,yes,yes,0
+12/17/2015 13:56,202342,21,paid,furniture/equipment,3599, <100 ,7-Apr,1, female,div/dep/mar ,4,car,26,rent,1, unskilled resident ,1,none,yes,0
+7/17/2015 21:31,202343,18,paid,radio/tv,3213,500-1000 , <1 ,1, male,mar/wid ,3, real estate ,25,rent,1,skilled,1,none,yes,0
+3/20/2015 11:26,202344,18,paid,business,4439, <100 , >=7 ,1, male,single ,1, real estate ,33,own,1, high qualif/self emp/mgmt ,1,yes,yes,0
+10/28/2015 19:56,202345,10,paid, new car ,3949, <100 , <1 ,1, male,single ,1, life insurance ,37,own,1, unskilled resident ,2,none,yes,0
+10/8/2015 14:18,202346,15, critical,radio/tv,1459, <100 ,4-Jan,4, female,div/dep/mar ,2,car,43,own,1, unskilled resident ,1,none,yes,0
+6/18/2015 9:19,202347,13, critical,radio/tv,882, <100 , <1 ,4, male,single ,4, real estate ,23,own,2,skilled,1,none,yes,0
+4/18/2015 13:01,202348,24,paid,radio/tv,3758,500-1000 ,unemployed,1, female,div/dep/mar ,4, no known property ,23,rent,1, unemp/unskilled non res ,1,none,yes,0
+6/26/2015 8:25,202349,6, delayed,business,1743,100-500 ,4-Jan,1, male,single ,2, real estate ,34,own,2, unskilled resident ,1,none,yes,0
+1/4/2015 8:26,202350,9, critical,education,1136, >=1000 , >=7 ,4, male,single ,3, no known property ,32, for free ,2,skilled,2,none,yes,1
+3/15/2016 14:21,202351,9,paid, domestic appliance ,1236, <100 , <1 ,1, female,div/dep/mar ,4, real estate ,23,rent,1,skilled,1,yes,yes,0
+5/12/2015 19:31,202352,9,paid,furniture/equipment,959, <100 ,4-Jan,1, female,div/dep/mar ,2,car,29,own,1,skilled,1,none,no,1
+1/3/2016 14:44,202353,18, critical, used car ,3229, no known savings ,unemployed,2, male,single ,4, no known property ,38,own,1, high qualif/self emp/mgmt ,1,yes,yes,0
+5/13/2016 19:21,202354,12, no,radio/tv,6199, <100 ,4-Jan,4, male,single ,2, life insurance ,28,rent,2,skilled,1,yes,yes,1
+5/6/2016 12:15,202355,10,paid,education,727,500-1000 , >=7 ,4, male,single ,4, no known property ,46, for free ,1,skilled,1,yes,yes,0
+2/21/2015 12:22,202356,24,paid, new car ,1246, <100 , <1 ,4, male,single ,2, real estate ,23,own,1, unskilled resident ,1,none,yes,1
+12/22/2015 11:42,202357,12, critical,radio/tv,2331, no known savings , >=7 ,1, male,single ,4, real estate ,49,own,1,skilled,1,yes,yes,0
+11/13/2015 15:00,202358,36, delayed,radio/tv,4463, <100 ,4-Jan,4, male,single ,2,car,26,own,2, high qualif/self emp/mgmt ,1,yes,yes,1
+9/26/2015 14:50,202359,12,paid,radio/tv,776, <100 ,4-Jan,4, male,mar/wid ,2, real estate ,28,own,1,skilled,1,none,yes,0
+12/26/2015 12:40,202360,30,paid,furniture/equipment,2406, <100 ,7-Apr,4, female,div/dep/mar ,4, real estate ,23,rent,1,skilled,1,none,yes,1
+1/13/2015 8:55,202361,18,paid,education,1239, no known savings ,4-Jan,4, male,single ,4, no known property ,61, for free ,1,skilled,1,none,yes,0
+4/6/2016 17:51,202362,12,paid,radio/tv,3399, no known savings , >=7 ,2, male,single ,3,car,37,own,1, high qualif/self emp/mgmt ,1,none,yes,0
+3/14/2016 16:12,202363,12, delayed, new car ,2247, <100 ,4-Jan,2, female,div/dep/mar ,2,car,36,own,2,skilled,1,yes,yes,0
+7/8/2015 10:27,202364,6,paid,furniture/equipment,1766, <100 ,4-Jan,1, male,mar/wid ,2, life insurance ,21,rent,1,skilled,1,none,yes,0
+4/17/2015 11:35,202365,18,paid,furniture/equipment,2473, <100 ,unemployed,4, male,single ,1,car,25,own,1, unemp/unskilled non res ,1,none,yes,1
+3/29/2015 22:41,202366,12,paid,business,1542, <100 ,7-Apr,2, male,single ,4,car,36,own,1,skilled,1,yes,yes,0
+8/23/2015 11:25,202367,18, critical, used car ,3850, <100 ,7-Apr,3, male,single ,1,car,27,own,2,skilled,1,none,yes,0
+5/20/2015 20:38,202368,18,paid,furniture/equipment,3650, <100 , <1 ,1, female,div/dep/mar ,4,car,22,rent,1,skilled,1,none,yes,0
+1/23/2015 21:31,202369,36,paid,furniture/equipment,3446, <100 , >=7 ,4, male,single ,2,car,42,own,1,skilled,2,none,yes,1
+6/19/2015 11:54,202370,18,paid,furniture/equipment,3001, <100 ,7-Apr,2, female,div/dep/mar ,4, real estate ,40,rent,1,skilled,1,none,yes,0
+8/15/2015 12:15,202371,36,paid, new car ,3079, no known savings ,4-Jan,4, male,single ,4, real estate ,36,own,1,skilled,1,none,yes,0
+7/13/2015 15:05,202372,18, critical,radio/tv,6070, <100 , >=7 ,3, male,single ,4,car,33,own,2,skilled,1,yes,yes,0
+9/8/2015 20:31,202373,10, critical,furniture/equipment,2146, <100 , <1 ,1, female,div/dep/mar ,3, real estate ,23,rent,2,skilled,1,none,yes,0
+11/22/2015 15:45,202374,60, critical, new car ,13756, no known savings , >=7 ,2, male,single ,4, no known property ,63, for free ,1, high qualif/self emp/mgmt ,1,yes,yes,0
+10/12/2015 8:32,202375,60, all,other,14782,100-500 , >=7 ,3, female,div/dep/mar ,4, no known property ,60, for free ,2, high qualif/self emp/mgmt ,1,yes,yes,1
+2/5/2016 16:05,202376,48, all,business,7685, <100 ,7-Apr,2, female,div/dep/mar ,4,car,37,rent,1,skilled,1,none,yes,1
+2/14/2016 17:25,202377,18, delayed,radio/tv,2320, <100 ,unemployed,2, male,mar/wid ,3, real estate ,34,own,2,skilled,1,none,yes,0
+2/7/2015 22:04,202378,7, delayed,radio/tv,846, no known savings , >=7 ,3, male,single ,4, no known property ,36, for free ,1,skilled,1,none,yes,0
+12/10/2015 13:27,202379,36,paid, new car ,14318, <100 , >=7 ,4, male,single ,2, no known property ,57, for free ,1, high qualif/self emp/mgmt ,1,yes,yes,1
+7/24/2015 9:23,202380,6, critical, new car ,362,100-500 ,4-Jan,4, female,div/dep/mar ,4,car,52,own,2, unskilled resident ,1,none,yes,0
+8/6/2015 14:41,202381,20,paid,furniture/equipment,2212, no known savings ,7-Apr,4, male,single ,4,car,39,own,1,skilled,1,yes,yes,0
+5/4/2015 21:13,202382,18,paid, used car ,12976, <100 ,unemployed,3, female,div/dep/mar ,4, no known property ,38, for free ,1, high qualif/self emp/mgmt ,1,yes,yes,1
+4/7/2016 12:16,202383,22,paid, new car ,1283, no known savings ,7-Apr,4, female,div/dep/mar ,4, life insurance ,25,rent,1,skilled,1,none,yes,0
+2/23/2015 13:17,202384,12,paid, new car ,1330, <100 , <1 ,4, male,single ,1, real estate ,26,own,1,skilled,1,none,yes,0
+9/6/2015 21:30,202385,30, delayed,business,4272,100-500 ,4-Jan,2, male,single ,2, life insurance ,26,own,2, unskilled resident ,1,none,yes,0
+10/30/2015 15:25,202386,18, critical,radio/tv,2238, <100 ,4-Jan,2, female,div/dep/mar ,1,car,25,own,2,skilled,1,none,yes,0
+4/26/2015 10:31,202387,18,paid,radio/tv,1126, no known savings , <1 ,4, female,div/dep/mar ,2, real estate ,21,rent,1,skilled,1,yes,yes,0
+5/16/2015 18:19,202388,18, critical,furniture/equipment,7374, <100 ,unemployed,4, male,single ,4, life insurance ,40,own,2, high qualif/self emp/mgmt ,1,yes,yes,0
+8/23/2015 8:08,202389,15, critical,business,2326,500-1000 ,4-Jan,2, male,single ,4,car,27,own,1,skilled,1,none,yes,0
+3/21/2016 14:26,202390,9,paid,business,1449, <100 ,7-Apr,3, female,div/dep/mar ,2,car,27,own,2,skilled,1,none,yes,0
+3/14/2015 10:43,202391,18,paid, new car ,1820, <100 ,4-Jan,2, male,mar/wid ,2, life insurance ,30,own,1, high qualif/self emp/mgmt ,1,yes,yes,0
+8/6/2015 10:32,202392,12,paid,furniture/equipment,983, >=1000 , <1 ,1, female,div/dep/mar ,4, real estate ,19,rent,1, unskilled resident ,1,none,yes,0
+2/4/2015 12:06,202393,36,paid, new car ,3249, <100 ,7-Apr,2, male,single ,4, no known property ,39, for free ,1, high qualif/self emp/mgmt ,2,yes,yes,0
+3/9/2015 9:06,202394,6, critical,radio/tv,1957, <100 ,7-Apr,1, female,div/dep/mar ,4,car,31,own,1,skilled,1,none,yes,0
+1/10/2015 21:52,202395,9, critical,furniture/equipment,2406, <100 ,unemployed,2, male,single ,3,car,31,own,1, high qualif/self emp/mgmt ,1,none,yes,0
+2/14/2016 14:46,202396,39, delayed,education,11760,100-500 ,7-Apr,2, male,single ,3, no known property ,32,rent,1,skilled,1,yes,yes,0
+4/18/2015 15:06,202397,12,paid,furniture/equipment,2578, <100 ,unemployed,3, female,div/dep/mar ,4, no known property ,55, for free ,1, high qualif/self emp/mgmt ,1,none,yes,0
+4/6/2015 11:16,202398,36, critical,furniture/equipment,2348, <100 ,4-Jan,3, male,mar/wid ,2, life insurance ,46,own,2,skilled,1,yes,yes,0
+10/23/2015 16:59,202399,12,paid, new car ,1223, <100 , >=7 ,1, male,div/sep ,1, real estate ,46,rent,2,skilled,1,none,yes,1
+11/10/2015 19:29,202400,24, critical,radio/tv,1516, >=1000 ,4-Jan,4, female,div/dep/mar ,1, real estate ,43,own,2, unskilled resident ,1,none,yes,0
+6/11/2015 11:41,202401,18,paid,radio/tv,1473, <100 , <1 ,3, male,mar/wid ,4, real estate ,39,own,1,skilled,1,yes,yes,0
+1/6/2015 11:41,202402,18, critical,business,1887, no known savings ,4-Jan,4, male,mar/wid ,4, real estate ,28,own,2,skilled,1,none,yes,0
+4/26/2015 17:56,202403,24, delayed,business,8648, <100 , <1 ,2, male,single ,2,car,27,own,2,skilled,1,yes,yes,1
+6/8/2015 20:16,202404,14, delayed, new car ,802, <100 ,4-Jan,4, male,single ,2,car,27,own,2, unskilled resident ,1,none,yes,0
+5/21/2015 19:39,202405,18, delayed, new car ,2899, no known savings , >=7 ,4, male,single ,4,car,43,own,1,skilled,2,none,yes,0
+1/4/2016 22:20,202406,24,paid,radio/tv,2039, <100 , <1 ,1, male,mar/wid ,1, life insurance ,22,own,1,skilled,1,yes,yes,1
+5/11/2016 17:59,202407,24, critical, used car ,2197, no known savings ,7-Apr,4, male,single ,4,car,43,own,2,skilled,2,yes,yes,0
+4/25/2015 17:22,202408,15,paid,radio/tv,1053, <100 , <1 ,4, male,mar/wid ,2, real estate ,27,own,1,skilled,1,none,no,0
+8/20/2015 20:38,202409,24,paid,radio/tv,3235,500-1000 , >=7 ,3, male,div/sep ,2,car,26,own,1, high qualif/self emp/mgmt ,1,yes,yes,0
+11/27/2015 10:22,202410,12, critical, new car ,939,500-1000 ,7-Apr,4, male,mar/wid ,2, real estate ,28,own,3,skilled,1,yes,yes,1
+4/20/2015 17:39,202411,24,paid,radio/tv,1967, <100 , >=7 ,4, female,div/dep/mar ,4,car,20,own,1,skilled,1,yes,yes,0
+8/13/2015 16:34,202412,33, critical, used car ,7253, <100 ,7-Apr,3, male,single ,2,car,35,own,2, high qualif/self emp/mgmt ,1,yes,yes,0
+11/12/2015 19:03,202413,12, critical,business,2292, <100 ,unemployed,4, male,single ,2,car,42,own,2, high qualif/self emp/mgmt ,1,yes,yes,1
+4/9/2016 14:19,202414,10,paid, new car ,1597,500-1000 ,4-Jan,3, male,single ,2, no known property ,40,rent,1, unskilled resident ,2,none,no,0
+11/20/2015 10:13,202415,24,paid, new car ,1381, no known savings ,4-Jan,4, female,div/dep/mar ,2, life insurance ,35,own,1,skilled,1,none,yes,1
+2/4/2015 12:09,202416,36, critical, used car ,5842, <100 , >=7 ,2, male,single ,2, life insurance ,35,own,2,skilled,2,yes,yes,0
+2/20/2015 9:35,202417,12,paid, new car ,2579, <100 , <1 ,4, male,single ,1, real estate ,33,own,1, unskilled resident ,2,none,yes,1
+12/4/2015 12:24,202418,18, delayed,education,8471, no known savings ,4-Jan,1, female,div/dep/mar ,2,car,23,rent,2,skilled,1,yes,yes,0
+3/19/2015 16:49,202419,21,paid, new car ,2782,500-1000 ,7-Apr,1, female,div/dep/mar ,2,car,31,own,1, high qualif/self emp/mgmt ,1,none,yes,0
+1/5/2016 19:55,202420,18,paid, new car ,1042, no known savings ,4-Jan,4, female,div/dep/mar ,2, life insurance ,33,own,1,skilled,1,none,yes,1
+2/15/2015 16:24,202421,15,paid, new car ,3186, >=1000 ,7-Apr,2, female,div/dep/mar ,3,car,20,rent,1,skilled,1,none,yes,0
+2/24/2016 19:19,202422,12,paid, used car ,2028, no known savings ,4-Jan,4, male,single ,2,car,30,own,1,skilled,1,none,yes,0
+3/28/2015 10:02,202423,12, critical, new car ,958, <100 ,7-Apr,2, male,single ,3, real estate ,47,own,2, unskilled resident ,2,none,yes,0
+7/5/2015 14:25,202424,21, delayed,furniture/equipment,1591,100-500 ,7-Apr,4, male,single ,3, real estate ,34,own,2, high qualif/self emp/mgmt ,1,none,yes,0
+4/12/2015 22:06,202425,12,paid,furniture/equipment,2762, no known savings , >=7 ,1, female,div/dep/mar ,2, life insurance ,25,own,1,skilled,1,yes,yes,1
+5/30/2015 20:30,202426,18,paid, used car ,2779, <100 ,4-Jan,1, male,mar/wid ,3,car,21,rent,1,skilled,1,yes,yes,0
+3/13/2015 9:26,202427,28, critical,radio/tv,2743, <100 , >=7 ,4, male,single ,2,car,29,own,2,skilled,1,none,yes,0
+7/28/2015 21:00,202428,18, critical,radio/tv,1149, >=1000 ,4-Jan,4, male,single ,3, real estate ,46,own,2,skilled,1,none,yes,0
+8/7/2015 16:32,202429,9,paid,furniture/equipment,1313, <100 , >=7 ,1, male,single ,4,car,20,own,1,skilled,1,none,yes,0
+2/19/2015 9:35,202430,18, critical,repairs,1190, <100 ,unemployed,2, female,div/dep/mar ,4, no known property ,55, for free ,3, unemp/unskilled non res ,2,none,yes,1
+8/29/2015 18:47,202431,5,paid,business,3448, <100 ,7-Apr,1, male,single ,4, real estate ,74,own,1, unskilled resident ,1,none,yes,0
+10/28/2015 10:35,202432,24,paid,other,11328, <100 ,4-Jan,2, male,single ,3,car,29,own,2, high qualif/self emp/mgmt ,1,yes,yes,1
+7/16/2015 13:08,202433,6, critical,furniture/equipment,1872, <100 ,unemployed,4, male,single ,4, no known property ,36, for free ,3, high qualif/self emp/mgmt ,1,yes,yes,0
+5/1/2015 17:29,202434,24, critical,repairs,2058, <100 ,4-Jan,4, male,div/sep ,2, real estate ,33,own,2,skilled,1,yes,yes,0
+7/16/2015 11:24,202435,9,paid,furniture/equipment,2136, <100 ,4-Jan,3, male,single ,2, real estate ,25,own,1,skilled,1,none,yes,0
+2/18/2015 14:47,202436,12,paid,radio/tv,1484, no known savings ,4-Jan,2, male,mar/wid ,1, real estate ,25,own,1,skilled,1,yes,yes,1
+9/7/2015 9:50,202437,6,paid,repairs,660,500-1000 ,7-Apr,2, male,mar/wid ,4, real estate ,23,rent,1, unskilled resident ,1,none,yes,0
+10/1/2015 8:58,202438,24, critical, new car ,1287, >=1000 , >=7 ,4, female,div/dep/mar ,4, real estate ,37,own,2,skilled,1,yes,yes,0
+12/23/2015 22:27,202439,42, critical,repairs,3394, <100 ,unemployed,4, male,single ,4,car,65,own,2, unemp/unskilled non res ,1,none,yes,0
+9/1/2015 17:52,202440,12, all,business,609, <100 , <1 ,4, female,div/dep/mar ,1, real estate ,26,own,1, unemp/unskilled non res ,1,none,yes,1
+7/16/2015 20:38,202441,12,paid, new car ,1884, <100 , >=7 ,4, male,single ,4,car,39,own,1, high qualif/self emp/mgmt ,1,yes,yes,0
+8/6/2015 21:06,202442,12,paid,furniture/equipment,1620, <100 ,4-Jan,2, female,div/dep/mar ,3, life insurance ,30,own,1,skilled,1,none,yes,0
+12/9/2015 11:16,202443,20, delayed,other,2629, <100 ,4-Jan,2, male,single ,3,car,29,own,2,skilled,1,yes,yes,0
+10/22/2015 11:20,202444,12,paid,education,719, <100 , >=7 ,4, male,single ,4,car,41,own,1, unskilled resident ,2,none,yes,1
+4/29/2016 20:53,202445,48, critical,furniture/equipment,5096, <100 ,4-Jan,2, female,div/dep/mar ,3,car,30,own,1, high qualif/self emp/mgmt ,1,yes,yes,1
+5/11/2015 14:08,202446,9, critical,education,1244, no known savings , >=7 ,4, female,div/dep/mar ,4, life insurance ,41,rent,2, unskilled resident ,1,none,yes,0
+5/18/2016 22:07,202447,36,paid, new car ,1842, <100 , <1 ,4, female,div/dep/mar ,4,car,34,own,1,skilled,1,yes,yes,1
+5/5/2015 14:51,202448,7,paid,radio/tv,2576, <100 ,4-Jan,2, male,single ,2, real estate ,35,own,1,skilled,1,none,yes,0
+4/28/2015 11:59,202449,12,paid,furniture/equipment,1424, no known savings , >=7 ,3, female,div/dep/mar ,4, real estate ,55,own,1, high qualif/self emp/mgmt ,1,yes,yes,0
+3/21/2015 13:17,202450,15, delayed,repairs,1512, >=1000 ,4-Jan,3, male,mar/wid ,3, life insurance ,61,own,2,skilled,1,none,yes,1
+12/24/2015 20:12,202451,36, critical, used car ,11054, no known savings ,4-Jan,4, male,single ,2,car,30,own,1, high qualif/self emp/mgmt ,1,yes,yes,0
+1/10/2015 9:08,202452,6,paid,radio/tv,518, <100 ,4-Jan,3, female,div/dep/mar ,1, real estate ,29,own,1,skilled,1,none,yes,0
+1/21/2016 14:51,202453,12, no,furniture/equipment,2759, <100 , >=7 ,2, male,single ,4, life insurance ,34,own,2,skilled,1,none,yes,0
+7/7/2015 19:40,202454,24,paid, used car ,2670, <100 , >=7 ,4, male,single ,4,car,35,own,1, high qualif/self emp/mgmt ,1,yes,yes,0
+3/25/2016 8:03,202455,24,paid, new car ,4817, <100 ,7-Apr,2, male,single ,3, life insurance ,31,own,1,skilled,1,yes,yes,1
+1/23/2015 10:21,202456,24,paid, used car ,2679, <100 , <1 ,4, female,div/dep/mar ,1, no known property ,29,own,1, high qualif/self emp/mgmt ,1,yes,yes,0
+5/9/2016 11:07,202457,11, critical, new car ,3905, <100 ,4-Jan,2, male,single ,2, real estate ,36,rent,2,skilled,2,none,yes,0
+4/30/2016 16:54,202458,12,paid, used car ,3386, <100 , >=7 ,3, male,single ,4, no known property ,35, for free ,1,skilled,1,yes,yes,1
+1/20/2015 21:12,202459,6,paid, domestic appliance ,343, <100 , <1 ,4, female,div/dep/mar ,1, real estate ,27,own,1,skilled,1,none,yes,0
+7/12/2015 13:08,202460,18,paid,radio/tv,4594, <100 , <1 ,3, male,single ,2,car,32,own,1,skilled,1,yes,yes,0
+2/27/2015 20:23,202461,36,paid,furniture/equipment,3620, <100 ,4-Jan,1, male,single ,2, life insurance ,37,own,1,skilled,2,none,yes,0
+4/4/2015 21:05,202462,15,paid, new car ,1721, <100 , <1 ,2, male,single ,3, real estate ,36,own,1,skilled,1,none,yes,0
+1/5/2015 14:50,202463,12,paid,furniture/equipment,3017, <100 , <1 ,3, female,div/dep/mar ,1, real estate ,34,rent,1, high qualif/self emp/mgmt ,1,none,yes,0
+3/6/2015 8:42,202464,12,paid,retraining,754, no known savings , >=7 ,4, male,single ,4, life insurance ,38,own,2,skilled,1,none,yes,0
+3/27/2016 16:18,202465,18,paid,business,1950, <100 ,7-Apr,4, male,single ,1,car,34,own,2,skilled,1,yes,yes,0
+11/18/2015 21:43,202466,24,paid, used car ,2924, <100 ,4-Jan,3, male,single ,4, no known property ,63,own,1,skilled,2,yes,yes,0
+3/31/2015 10:47,202467,24, delayed,radio/tv,1659, <100 , <1 ,4, female,div/dep/mar ,2,car,29,rent,1, unskilled resident ,1,yes,yes,1
+11/4/2015 13:39,202468,48, delayed,radio/tv,7238, no known savings , >=7 ,3, male,single ,3,car,32,own,2,skilled,2,none,yes,0
+9/19/2015 15:07,202469,33, delayed,business,2764, <100 ,4-Jan,2, female,div/dep/mar ,2,car,26,own,2,skilled,1,yes,yes,0
+8/28/2015 8:28,202470,24, delayed, used car ,4679, <100 ,7-Apr,3, male,single ,3,car,35,own,2, unskilled resident ,1,yes,yes,0
+2/16/2015 18:33,202471,24,paid,radio/tv,3092,100-500 , <1 ,3, male,mar/wid ,2,car,22,rent,1,skilled,1,yes,yes,1
+7/6/2015 21:14,202472,6,paid,education,448, <100 , <1 ,4, female,div/dep/mar ,4, life insurance ,23,own,1,skilled,1,none,yes,1
+7/1/2015 9:33,202473,9,paid, new car ,654, <100 ,4-Jan,4, male,single ,3,car,28,own,1, unskilled resident ,1,none,yes,1
+6/3/2015 22:24,202474,6,paid,retraining,1238, no known savings ,unemployed,4, male,single ,4, life insurance ,36,own,1, high qualif/self emp/mgmt ,2,yes,yes,0
+2/18/2015 21:21,202475,18, critical,radio/tv,1245, <100 ,4-Jan,4, male,mar/wid ,2,car,33,own,1,skilled,1,none,yes,1
+1/28/2016 12:19,202476,18, no,furniture/equipment,3114, <100 , <1 ,1, female,div/dep/mar ,4, life insurance ,26,rent,1,skilled,1,none,yes,1
+10/27/2015 10:58,202477,39,paid, used car ,2569,500-1000 ,4-Jan,4, male,single ,4,car,24,own,1,skilled,1,none,yes,0
+6/8/2015 15:01,202478,24,paid,radio/tv,5152, <100 ,7-Apr,4, male,single ,2,car,25,own,1,skilled,1,none,yes,0
+11/17/2015 21:38,202479,12,paid,business,1037,100-500 ,7-Apr,3, male,single ,4, real estate ,39,own,1, unskilled resident ,1,none,yes,0
+4/22/2016 13:58,202480,15, critical,furniture/equipment,1478, <100 , >=7 ,4, male,single ,4,car,44,own,2,skilled,2,yes,yes,0
+1/28/2015 10:00,202481,12, critical,radio/tv,3573, <100 ,4-Jan,1, female,div/dep/mar ,1, real estate ,23,own,1, unskilled resident ,1,none,yes,0
+1/29/2015 14:39,202482,24,paid, new car ,1201, <100 , <1 ,4, male,single ,1, life insurance ,26,own,1,skilled,1,none,yes,0
+8/10/2015 13:03,202483,30,paid,furniture/equipment,3622, >=1000 , >=7 ,4, female,div/dep/mar ,4, life insurance ,57,rent,2,skilled,1,yes,yes,0
+1/2/2015 17:45,202484,15, delayed,furniture/equipment,960, >=1000 ,7-Apr,3, female,div/dep/mar ,2, life insurance ,30,own,2,skilled,1,none,yes,0
+7/3/2015 12:29,202485,12, critical, new car ,1163,500-1000 ,4-Jan,4, male,single ,4, real estate ,44,own,1,skilled,1,yes,yes,0
+1/12/2016 14:13,202486,6, delayed, new car ,1209, <100 ,unemployed,4, male,single ,4, life insurance ,47,own,1, high qualif/self emp/mgmt ,1,yes,yes,1
+3/19/2016 14:20,202487,12,paid,radio/tv,3077, <100 ,4-Jan,2, male,single ,4,car,52,own,1,skilled,1,yes,yes,0
+6/5/2015 9:16,202488,24,paid, new car ,3757, <100 , >=7 ,4, female,div/dep/mar ,4, no known property ,62, for free ,1,skilled,1,yes,yes,0
+5/31/2015 18:06,202489,10,paid, new car ,1418,100-500 ,4-Jan,3, male,single ,2, real estate ,35,rent,1, unskilled resident ,1,none,no,0
+6/23/2015 10:21,202490,6,paid, new car ,3518, <100 ,4-Jan,2, male,single ,3, life insurance ,26,rent,1,skilled,1,none,yes,0
+4/5/2015 21:52,202491,12, critical,radio/tv,1934, <100 , >=7 ,2, male,single ,2, no known property ,26,own,2,skilled,1,none,yes,0
+3/21/2016 20:30,202492,27, no,business,8318, <100 , >=7 ,2, female,div/dep/mar ,4, no known property ,42, for free ,2, high qualif/self emp/mgmt ,1,yes,yes,1
+7/12/2015 14:15,202493,6, critical,radio/tv,1237,100-500 ,4-Jan,1, female,div/dep/mar ,1, life insurance ,27,own,2,skilled,1,none,yes,0
+3/25/2015 17:37,202494,6,paid,radio/tv,368, no known savings , >=7 ,4, male,single ,4, life insurance ,38,own,1,skilled,1,none,yes,0
+4/19/2015 14:56,202495,12, critical, new car ,2122, <100 ,4-Jan,3, male,single ,2, real estate ,39,rent,2, unskilled resident ,2,none,no,0
+5/16/2016 9:01,202496,24,paid,furniture/equipment,2996, no known savings ,4-Jan,2, male,mar/wid ,4,car,20,own,1,skilled,1,none,yes,1
+6/8/2015 18:04,202497,36,paid,furniture/equipment,9034,100-500 , <1 ,4, male,single ,1, no known property ,29,rent,1, high qualif/self emp/mgmt ,1,yes,yes,1
+7/15/2015 9:49,202498,24, critical,furniture/equipment,1585, <100 ,7-Apr,4, male,single ,3, life insurance ,40,own,2,skilled,1,none,yes,0
+9/22/2015 16:13,202499,18,paid,radio/tv,1301, <100 , >=7 ,4, male,mar/wid ,2, real estate ,32,own,1, unskilled resident ,1,none,yes,0
+9/1/2015 16:46,202500,6, critical, new car ,1323,100-500 , >=7 ,2, male,div/sep ,4,car,28,own,2,skilled,2,yes,yes,0
+12/29/2015 13:22,202501,24,paid, new car ,3123, <100 , <1 ,4, female,div/dep/mar ,1, life insurance ,27,own,1,skilled,1,none,yes,1
+4/15/2015 20:51,202502,36,paid, used car ,5493, <100 , >=7 ,2, male,single ,4, no known property ,42, for free ,1,skilled,2,none,yes,0
+2/15/2015 8:37,202503,9,paid,radio/tv,1126,100-500 , >=7 ,2, male,div/sep ,4, real estate ,49,own,1,skilled,1,none,yes,0
+8/7/2015 13:42,202504,24, critical,radio/tv,1216,100-500 , <1 ,4, male,single ,4, no known property ,38,own,2,skilled,2,none,yes,1
+7/17/2015 9:53,202505,24,paid, new car ,1207, <100 , <1 ,4, female,div/dep/mar ,4, life insurance ,24,rent,1,skilled,1,none,yes,1
+1/15/2015 12:14,202506,10,paid, new car ,1309, no known savings ,4-Jan,4, male,single ,4, life insurance ,27,own,1, unskilled resident ,1,none,yes,1
+11/13/2015 19:03,202507,15, critical, used car ,2360,500-1000 ,4-Jan,2, male,single ,2,car,36,own,1,skilled,1,yes,yes,0
+6/11/2015 21:19,202508,15, all, new car ,6850,100-500 ,unemployed,1, male,single ,2, life insurance ,34,own,1, high qualif/self emp/mgmt ,2,yes,yes,1
+6/24/2015 13:15,202509,24,paid,radio/tv,1413, <100 ,4-Jan,4, male,mar/wid ,2, life insurance ,28,own,1,skilled,1,none,yes,0
+6/29/2015 14:30,202510,39,paid, used car ,8588,100-500 , >=7 ,4, male,single ,2,car,45,own,1, high qualif/self emp/mgmt ,1,yes,yes,0
+11/27/2015 8:13,202511,12,paid, new car ,759, <100 ,7-Apr,4, male,single ,2, real estate ,26,own,1,skilled,1,none,yes,1
+1/18/2016 22:27,202512,36,paid, used car ,4686, <100 ,4-Jan,2, male,single ,2, no known property ,32, for free ,1, high qualif/self emp/mgmt ,1,yes,yes,0
+10/30/2015 8:01,202513,15,paid,business,2687, <100 ,7-Apr,2, male,single ,4, life insurance ,26,rent,1,skilled,1,yes,yes,0
+2/22/2015 16:51,202514,12, delayed,radio/tv,585, <100 ,4-Jan,4, male,mar/wid ,4, real estate ,20,rent,2,skilled,1,none,yes,0
+10/6/2015 18:36,202515,24,paid, new car ,2255, no known savings , <1 ,4, male,single ,1, life insurance ,54,own,1,skilled,1,none,yes,0
+2/24/2015 9:02,202516,6, critical, new car ,609, <100 ,7-Apr,4, female,div/dep/mar ,3, life insurance ,37,own,2,skilled,1,none,no,0
+5/26/2016 14:47,202517,6, critical, new car ,1361, <100 , <1 ,2, male,single ,4, real estate ,40,own,1, unskilled resident ,2,none,no,0
+11/17/2015 19:16,202518,36, critical,furniture/equipment,7127, <100 , <1 ,2, female,div/dep/mar ,4, life insurance ,23,rent,2,skilled,1,yes,yes,1
+10/17/2015 14:55,202519,6,paid, new car ,1203,100-500 , >=7 ,3, male,single ,2, life insurance ,43,own,1,skilled,1,yes,yes,0
+2/3/2016 8:39,202520,6, critical,radio/tv,700, no known savings , >=7 ,4, male,single ,4, no known property ,36, for free ,2,skilled,1,none,yes,0
+5/5/2015 14:43,202521,24, critical,repairs,5507, <100 , >=7 ,3, male,single ,4, no known property ,44, for free ,2,skilled,1,none,yes,0
+4/23/2016 9:18,202522,18,paid,radio/tv,3190, <100 ,4-Jan,2, female,div/dep/mar ,2, real estate ,24,own,1,skilled,1,none,yes,1
+11/24/2015 12:03,202523,48, no,furniture/equipment,7119, <100 ,4-Jan,3, male,single ,4, no known property ,53, for free ,2,skilled,2,none,yes,1
+1/12/2016 17:47,202524,24,paid, used car ,3488,100-500 ,7-Apr,3, female,div/dep/mar ,4,car,23,own,1,skilled,1,none,yes,0
+8/28/2015 21:30,202525,18,paid,radio/tv,1113, <100 ,4-Jan,4, female,div/dep/mar ,4, real estate ,26,own,1, unskilled resident ,2,none,yes,0
+8/9/2015 9:30,202526,26,paid, used car ,7966, <100 , <1 ,2, male,single ,3,car,30,own,2,skilled,1,none,yes,0
+7/14/2015 13:37,202527,15, critical,education,1532,100-500 ,4-Jan,4, female,div/dep/mar ,3,car,31,own,1,skilled,1,none,yes,0
+6/22/2015 12:41,202528,4, critical,radio/tv,1503, <100 ,7-Apr,2, male,single ,1, real estate ,42,own,2, unskilled resident ,2,none,yes,0
+11/3/2015 22:05,202529,36,paid,radio/tv,2302, <100 ,4-Jan,4, male,div/sep ,4,car,31,rent,1,skilled,1,none,yes,1
+7/30/2015 20:06,202530,6,paid, new car ,662, <100 , <1 ,3, male,single ,4, real estate ,41,own,1, unskilled resident ,2,yes,yes,0
+1/8/2015 11:30,202531,36,paid,education,2273, <100 ,7-Apr,3, male,single ,1,car,32,own,2,skilled,2,none,yes,0
+6/22/2015 17:42,202532,15,paid, new car ,2631,100-500 ,4-Jan,2, female,div/dep/mar ,4,car,28,rent,2,skilled,1,yes,yes,1
+1/15/2016 13:34,202533,12, delayed, used car ,1503, <100 ,4-Jan,4, male,mar/wid ,4, real estate ,41,rent,1,skilled,1,none,yes,0
+2/6/2015 9:38,202534,24,paid,radio/tv,1311,100-500 ,7-Apr,4, male,mar/wid ,3, life insurance ,26,own,1,skilled,1,yes,yes,0
+7/11/2015 15:56,202535,24,paid,radio/tv,3105, no known savings , <1 ,4, male,single ,2,car,25,own,2,skilled,1,none,yes,0
+10/11/2015 20:41,202536,21, critical,education,2319, <100 , <1 ,2, male,div/sep ,1,car,33,rent,1,skilled,1,none,yes,1
+11/19/2015 18:07,202537,6,paid, new car ,1374, no known savings ,unemployed,4, female,div/dep/mar ,3, life insurance ,75,own,1, high qualif/self emp/mgmt ,1,yes,yes,0
+6/26/2015 16:55,202538,18, critical,furniture/equipment,3612, <100 , >=7 ,3, female,div/dep/mar ,4, life insurance ,37,own,1,skilled,1,yes,yes,0
+8/22/2015 22:13,202539,48,paid, new car ,7763, <100 , >=7 ,4, male,single ,4, no known property ,42, for free ,1, high qualif/self emp/mgmt ,1,none,yes,1
+4/16/2015 22:56,202540,18,paid,furniture/equipment,3049, <100 , <1 ,1, female,div/dep/mar ,1, life insurance ,45,own,1, unskilled resident ,1,none,yes,0
+2/15/2015 13:59,202541,12,paid,radio/tv,1534, <100 , <1 ,1, male,mar/wid ,1, real estate ,23,rent,1,skilled,1,none,yes,1
+10/2/2015 19:45,202542,24, delayed, new car ,2032, <100 , >=7 ,4, male,single ,4, no known property ,60, for free ,2,skilled,1,yes,yes,0
+2/23/2016 19:06,202543,30,paid,furniture/equipment,6350, no known savings , >=7 ,4, male,single ,4, life insurance ,31,own,1,skilled,1,none,yes,1
+5/5/2016 8:56,202544,18,paid,furniture/equipment,2864, <100 ,4-Jan,2, male,single ,1, real estate ,34,own,1, unskilled resident ,2,none,yes,1
+10/4/2015 17:32,202545,12, critical, new car ,1255, <100 , >=7 ,4, male,single ,4, real estate ,61,own,2, unskilled resident ,1,none,yes,0
+3/31/2016 19:48,202546,24, delayed, new car ,1333, <100 ,unemployed,4, male,single ,2, real estate ,43, for free ,2,skilled,2,none,yes,1
+7/27/2015 19:14,202547,24, critical, new car ,2022, <100 ,4-Jan,4, female,div/dep/mar ,4,car,37,own,1,skilled,1,yes,yes,0
+2/11/2016 22:58,202548,24,paid,radio/tv,1552, <100 ,7-Apr,3, male,single ,1,car,32,own,1,skilled,2,none,yes,0
+1/6/2016 9:45,202549,12, all,radio/tv,626, <100 ,4-Jan,4, female,div/dep/mar ,4, real estate ,24,own,1, unskilled resident ,1,none,yes,1
+12/7/2015 13:02,202550,48, critical, used car ,8858, no known savings ,7-Apr,2, male,single ,1, no known property ,35, for free ,2,skilled,1,yes,yes,0
+5/26/2016 15:01,202551,12, critical,repairs,996, no known savings ,7-Apr,4, female,div/dep/mar ,4, real estate ,23,own,2,skilled,1,none,yes,0
+6/16/2015 19:49,202552,6, all,radio/tv,1750,500-1000 , >=7 ,2, male,single ,4, life insurance ,45,own,1, unskilled resident ,2,none,yes,0
+4/27/2016 13:18,202553,48,paid,radio/tv,6999, <100 ,7-Apr,1, male,mar/wid ,1, real estate ,34,own,2,skilled,1,yes,yes,1
+4/8/2015 20:09,202554,12, critical, new car ,1995,100-500 , <1 ,4, male,single ,1,car,27,own,1,skilled,1,none,yes,0
+6/24/2015 18:10,202555,9,paid,education,1199, <100 ,7-Apr,4, female,div/dep/mar ,4, life insurance ,67,own,2, high qualif/self emp/mgmt ,1,yes,yes,0
+9/14/2015 10:29,202556,12,paid,radio/tv,1331, <100 , <1 ,2, male,single ,1,car,22,own,1,skilled,1,none,yes,1
+11/9/2015 14:00,202557,18, no, new car ,2278,100-500 , <1 ,3, female,div/dep/mar ,3,car,28,own,2,skilled,1,none,yes,1
+3/14/2015 15:04,202558,21, no, new car ,5003, no known savings ,4-Jan,1, female,div/dep/mar ,4, life insurance ,29,own,2,skilled,1,yes,yes,1
+4/21/2015 9:50,202559,24, all,furniture/equipment,3552, <100 ,7-Apr,3, male,single ,4,car,27,own,1,skilled,1,none,yes,1
+10/1/2015 20:57,202560,18, critical,furniture/equipment,1928, <100 , <1 ,2, male,single ,2, real estate ,31,own,2, unskilled resident ,1,none,yes,1
+7/7/2015 16:05,202561,24,paid, used car ,2964, no known savings , >=7 ,4, male,single ,4, no known property ,49, for free ,1,skilled,2,yes,yes,0
+5/29/2015 18:55,202562,24, all,radio/tv,1546, <100 ,7-Apr,4, male,single ,4,car,24,rent,1, unskilled resident ,1,none,yes,1
+9/4/2015 20:23,202563,6, delayed,radio/tv,683, <100 , <1 ,2, female,div/dep/mar ,1, life insurance ,29,own,1,skilled,1,none,yes,0
+12/16/2015 9:39,202564,36,paid, new car ,12389, no known savings ,4-Jan,1, male,single ,4, no known property ,37, for free ,1,skilled,1,yes,yes,1
+3/8/2015 16:05,202565,24, delayed,business,4712, no known savings ,4-Jan,4, male,single ,2, life insurance ,37,own,2, high qualif/self emp/mgmt ,1,yes,yes,0
+2/21/2015 19:47,202566,24, delayed,radio/tv,1553,100-500 ,7-Apr,3, female,div/dep/mar ,2, life insurance ,23,rent,2,skilled,1,yes,yes,0
+12/27/2015 10:39,202567,12,paid, new car ,1372, <100 ,7-Apr,2, male,div/sep ,3,car,36,own,1,skilled,1,none,yes,1
+4/9/2016 17:40,202568,24, critical,radio/tv,2578, >=1000 , >=7 ,2, male,single ,2,car,34,own,1,skilled,1,none,yes,0
+3/12/2015 20:25,202569,48,paid,radio/tv,3979, no known savings ,7-Apr,4, male,single ,1,car,41,own,2,skilled,2,yes,yes,0
+5/21/2015 12:18,202570,48,paid,radio/tv,6758, <100 ,4-Jan,3, female,div/dep/mar ,2,car,31,own,1,skilled,1,yes,yes,1
+1/4/2015 22:38,202571,24,paid,furniture/equipment,3234, <100 , <1 ,4, female,div/dep/mar ,4, real estate ,23,rent,1, unskilled resident ,1,yes,yes,1
+1/2/2015 18:06,202572,30, critical,radio/tv,5954, <100 ,7-Apr,3, male,single ,2,car,38,own,1,skilled,1,none,yes,0
+11/3/2015 9:51,202573,24,paid, used car ,5433, no known savings ,unemployed,2, female,div/dep/mar ,4, life insurance ,26,rent,1, high qualif/self emp/mgmt ,1,yes,yes,0
+4/26/2015 19:31,202574,15,paid,business,806, <100 ,4-Jan,4, female,div/dep/mar ,4, life insurance ,22,own,1, unskilled resident ,1,none,yes,0
+5/16/2016 21:19,202575,9,paid,radio/tv,1082, <100 , >=7 ,4, male,single ,4,car,27,own,2, unskilled resident ,1,none,yes,0
+4/12/2015 18:49,202576,15, critical,furniture/equipment,2788, <100 ,7-Apr,2, female,div/dep/mar ,3,car,24,own,2,skilled,1,none,yes,0
+7/26/2015 21:45,202577,12,paid,radio/tv,2930, <100 ,7-Apr,2, female,div/dep/mar ,1, real estate ,27,own,1,skilled,1,none,yes,0
+2/10/2015 11:15,202578,24, critical,education,1927, no known savings ,4-Jan,3, female,div/dep/mar ,2,car,33,own,2,skilled,1,yes,yes,0
+7/26/2015 15:55,202579,36, critical, new car ,2820, <100 , <1 ,4, male,div/sep ,4,car,27,own,2,skilled,1,none,yes,1
+1/16/2015 8:44,202580,24,paid,retraining,937, <100 , <1 ,4, male,mar/wid ,3,car,27,own,2, unskilled resident ,1,none,yes,0
+12/30/2015 21:22,202581,18, critical, new car ,1056, <100 , >=7 ,3, male,single ,3, real estate ,30,own,2,skilled,1,none,yes,1
+9/17/2015 9:24,202582,12, critical, new car ,3124, <100 , <1 ,1, male,single ,3, real estate ,49,own,2, unskilled resident ,2,none,yes,0
+3/13/2016 13:06,202583,9,paid,furniture/equipment,1388, <100 ,4-Jan,4, female,div/dep/mar ,2, real estate ,26,rent,1,skilled,1,none,yes,0
+4/30/2015 10:49,202584,36,paid,repairs,2384, <100 , <1 ,4, male,single ,1, no known property ,33,rent,1, unskilled resident ,1,none,yes,1
+6/12/2015 12:51,202585,12,paid, new car ,2133, no known savings , >=7 ,4, female,div/dep/mar ,4, no known property ,52, for free ,1, high qualif/self emp/mgmt ,1,yes,yes,0
+4/8/2015 17:44,202586,18,paid,furniture/equipment,2039, <100 ,4-Jan,1, female,div/dep/mar ,4, real estate ,20,rent,1,skilled,1,none,yes,1
+9/10/2015 9:28,202587,9, critical, new car ,2799, <100 ,4-Jan,2, male,single ,2, real estate ,36,rent,2,skilled,2,none,yes,0
+4/5/2015 19:24,202588,12,paid,furniture/equipment,1289, <100 ,4-Jan,4, male,single ,1, life insurance ,21,own,1, unskilled resident ,1,none,yes,0
+5/18/2016 12:42,202589,18,paid, domestic appliance ,1217, <100 ,4-Jan,4, male,mar/wid ,3, real estate ,47,own,1, unskilled resident ,1,yes,yes,1
+6/28/2016 20:50,202590,12, critical,furniture/equipment,2246, <100 , >=7 ,3, male,single ,3, life insurance ,60,own,2,skilled,1,none,yes,1
+8/5/2015 19:26,202591,12, critical,radio/tv,385, <100 ,7-Apr,4, female,div/dep/mar ,3, real estate ,58,own,4, unskilled resident ,1,yes,yes,0
+12/27/2015 15:55,202592,24, delayed, new car ,1965, no known savings ,4-Jan,4, female,div/dep/mar ,4,car,42,rent,2,skilled,1,yes,yes,0
+1/7/2015 10:42,202593,21,paid,business,1572, >=1000 , >=7 ,4, female,div/dep/mar ,4, real estate ,36,own,1, unskilled resident ,1,none,yes,0
+7/19/2015 21:14,202594,24,paid, new car ,2718, <100 ,4-Jan,3, female,div/dep/mar ,4, life insurance ,20,rent,1, unskilled resident ,1,yes,yes,1
+9/1/2015 15:42,202595,24, all,other,1358, no known savings , >=7 ,4, male,single ,3,car,40,own,1, high qualif/self emp/mgmt ,1,yes,yes,1
+12/26/2015 11:46,202596,6, all, new car ,931,100-500 , <1 ,1, female,div/dep/mar ,1, life insurance ,32,own,1, unskilled resident ,1,none,yes,1
+4/14/2015 21:46,202597,24,paid, new car ,1442, <100 ,7-Apr,4, female,div/dep/mar ,4,car,23,rent,2,skilled,1,none,yes,1
+4/18/2015 9:07,202598,24, no,business,4241, <100 ,4-Jan,1, male,single ,4, real estate ,36,own,3, unskilled resident ,1,yes,yes,1
+10/17/2015 17:20,202599,18, critical, new car ,2775, <100 ,7-Apr,2, male,single ,2, life insurance ,31,own,2,skilled,1,none,yes,1
+6/4/2016 15:32,202600,24, delayed,business,3863, <100 ,4-Jan,1, male,single ,2, no known property ,32, for free ,1,skilled,1,none,yes,0
+7/17/2015 16:55,202601,7,paid,radio/tv,2329, <100 , <1 ,1, female,div/dep/mar ,1, real estate ,45,own,1,skilled,1,none,yes,0
+2/23/2016 14:51,202602,9,paid,furniture/equipment,918, <100 ,4-Jan,4, female,div/dep/mar ,1, life insurance ,30,own,1,skilled,1,none,yes,1
+3/26/2016 15:11,202603,24, all,education,1837, <100 ,7-Apr,4, female,div/dep/mar ,4, no known property ,34, for free ,1, unskilled resident ,1,none,yes,1
+4/16/2016 11:19,202604,36,paid,furniture/equipment,3349, <100 ,4-Jan,4, female,div/dep/mar ,2,car,28,own,1, high qualif/self emp/mgmt ,1,yes,yes,1
+2/18/2016 14:29,202605,10,paid,furniture/equipment,1275, <100 , <1 ,4, female,div/dep/mar ,2, life insurance ,23,own,1,skilled,1,none,yes,0
+4/3/2015 21:46,202606,24, all,furniture/equipment,2828,500-1000 ,4-Jan,4, male,single ,4, real estate ,22,own,1,skilled,1,yes,yes,0
+1/19/2015 21:40,202607,24, critical,business,4526, <100 ,4-Jan,3, male,single ,2, real estate ,74,own,1, high qualif/self emp/mgmt ,1,yes,yes,0
+12/18/2015 11:49,202608,36,paid,radio/tv,2671,100-500 ,4-Jan,4, female,div/dep/mar ,4, no known property ,50, for free ,1,skilled,1,none,yes,1
+5/3/2016 16:48,202609,18,paid,radio/tv,2051, <100 , <1 ,4, male,single ,1, real estate ,33,own,1,skilled,1,none,yes,0
+11/12/2015 21:53,202610,15,paid, used car ,1300, no known savings , >=7 ,4, male,single ,4, no known property ,45, for free ,1,skilled,2,none,yes,0
+5/25/2016 22:23,202611,12,paid, domestic appliance ,741,100-500 ,unemployed,4, female,div/dep/mar ,3, life insurance ,22,own,1,skilled,1,none,yes,1
+5/16/2015 13:13,202612,10,paid, new car ,1240,100-500 , >=7 ,1, female,div/dep/mar ,4, no known property ,48, for free ,1, unskilled resident ,2,none,yes,1
+12/21/2015 19:05,202613,21,paid,radio/tv,3357, >=1000 , <1 ,4, female,div/dep/mar ,2,car,29,own,1,skilled,1,none,yes,0
+4/22/2015 21:21,202614,24, all, used car ,3632, <100 ,4-Jan,1, female,div/dep/mar ,4,car,22,rent,1,skilled,1,none,no,0
+2/27/2015 8:35,202615,18, delayed,furniture/equipment,1808, <100 ,7-Apr,4, female,div/dep/mar ,1, real estate ,22,own,1,skilled,1,none,yes,1
+6/20/2015 17:33,202616,48, no,business,12204, no known savings ,4-Jan,2, male,single ,2,car,48,own,1, high qualif/self emp/mgmt ,1,yes,yes,0
+4/14/2016 22:55,202617,60, delayed,radio/tv,9157, no known savings ,4-Jan,2, male,single ,2, no known property ,27, for free ,1, high qualif/self emp/mgmt ,1,none,yes,0
+5/28/2015 15:27,202618,6, critical, new car ,3676, <100 ,4-Jan,1, male,single ,3, real estate ,37,rent,3,skilled,2,none,yes,0
+11/2/2015 16:08,202619,30,paid,furniture/equipment,3441,100-500 ,4-Jan,2, female,div/dep/mar ,4,car,21,rent,1,skilled,1,none,yes,1
+9/17/2015 10:54,202620,12,paid, new car ,640, <100 ,4-Jan,4, male,div/sep ,2, real estate ,49,own,1, unskilled resident ,1,none,yes,0
+7/6/2015 14:00,202621,21, critical,business,3652, <100 ,7-Apr,2, male,single ,3, life insurance ,27,own,2,skilled,1,none,yes,0
+12/28/2015 15:19,202622,18, critical, new car ,1530, <100 ,4-Jan,3, male,single ,2, life insurance ,32,own,2,skilled,1,none,yes,1
+3/1/2016 20:43,202623,48,paid,business,3914, no known savings ,4-Jan,4, male,div/sep ,2, real estate ,38,own,1,skilled,1,none,yes,1
+6/16/2016 19:24,202624,12,paid,furniture/equipment,1858, <100 , <1 ,4, female,div/dep/mar ,1,car,22,rent,1,skilled,1,none,yes,0
+10/12/2015 10:56,202625,18,paid,radio/tv,2600, <100 ,4-Jan,4, male,single ,4, no known property ,65, for free ,2,skilled,1,none,yes,1
+3/3/2015 19:59,202626,15,paid,radio/tv,1979, no known savings , >=7 ,4, male,single ,2,car,35,own,1,skilled,1,none,yes,0
+4/24/2015 10:11,202627,6,paid,furniture/equipment,2116, <100 ,4-Jan,2, male,single ,2, real estate ,41,own,1,skilled,1,yes,yes,0
+2/2/2016 15:00,202628,9, all, new car ,1437,100-500 ,7-Apr,2, male,single ,3, no known property ,29,own,1,skilled,1,none,yes,1
+12/11/2015 13:35,202629,42, critical,furniture/equipment,4042,500-1000 ,4-Jan,4, male,single ,4, real estate ,36,own,2,skilled,1,yes,yes,0
+2/8/2015 18:54,202630,9,paid,education,3832, no known savings , >=7 ,1, male,single ,4, real estate ,64,own,1, unskilled resident ,1,none,yes,0
+6/28/2016 13:44,202631,24,paid,radio/tv,3660, <100 ,4-Jan,2, female,div/dep/mar ,4,car,28,own,1,skilled,1,none,yes,0
+9/13/2015 14:50,202632,18, all,furniture/equipment,1553, <100 ,4-Jan,4, male,single ,3,car,44,own,1,skilled,1,none,yes,1
+6/23/2016 22:51,202633,15,paid,radio/tv,1444, no known savings , <1 ,4, male,single ,1, life insurance ,23,own,1,skilled,1,none,yes,0
+6/14/2016 14:01,202634,9,paid,furniture/equipment,1980, <100 , <1 ,2, female,div/dep/mar ,2,car,19,rent,2,skilled,1,none,yes,1
+10/1/2015 14:38,202635,24,paid, new car ,1355, <100 , <1 ,3, female,div/dep/mar ,4,car,25,own,1, unskilled resident ,1,yes,yes,1
+10/1/2015 20:49,202636,12,paid,education,1393, <100 , >=7 ,4, male,single ,4, life insurance ,47,own,3,skilled,2,yes,yes,0
+6/4/2015 11:34,202637,24,paid,radio/tv,1376,500-1000 ,7-Apr,4, female,div/dep/mar ,1,car,28,own,1,skilled,1,none,yes,0
+11/19/2015 22:54,202638,60, delayed,radio/tv,15653, <100 ,7-Apr,2, male,single ,4,car,21,own,2,skilled,1,yes,yes,0
+3/13/2015 12:41,202639,12,paid,radio/tv,1493, <100 , <1 ,4, female,div/dep/mar ,3,car,34,own,1,skilled,2,none,yes,0
+1/23/2015 10:30,202640,42, delayed,radio/tv,4370, <100 ,7-Apr,3, male,single ,2, life insurance ,26,own,2,skilled,2,yes,yes,1
+8/28/2015 16:59,202641,18,paid,education,750, <100 ,unemployed,4, female,div/dep/mar ,1, real estate ,27,own,1, unemp/unskilled non res ,1,none,yes,1
+4/6/2015 12:55,202642,15,paid,repairs,1308, <100 , >=7 ,4, male,single ,4,car,38,own,2, unskilled resident ,1,none,yes,0
+11/30/2015 8:52,202643,15,paid,education,4623,100-500 ,4-Jan,3, male,single ,2, life insurance ,40,own,1, high qualif/self emp/mgmt ,1,yes,yes,1
+4/19/2015 21:36,202644,24, critical,radio/tv,1851, <100 ,7-Apr,4, male,mar/wid ,2,car,33,own,2,skilled,1,yes,yes,0
+1/21/2016 11:02,202645,18, critical,radio/tv,1880, <100 ,7-Apr,4, male,mar/wid ,1, life insurance ,32,own,2, high qualif/self emp/mgmt ,1,yes,yes,0
+10/21/2015 10:05,202646,36, delayed,business,7980, no known savings , <1 ,4, male,single ,4,car,27,rent,2,skilled,1,yes,yes,1
+2/23/2016 16:25,202647,30, no,furniture/equipment,4583, <100 ,4-Jan,2, male,div/sep ,2, real estate ,32,own,2,skilled,1,none,yes,0
+8/26/2015 12:18,202648,12,paid, new car ,1386,500-1000 ,4-Jan,2, female,div/dep/mar ,2, life insurance ,26,own,1,skilled,1,none,yes,1
+3/4/2015 12:54,202649,24,paid, new car ,947, <100 ,7-Apr,4, male,single ,3, no known property ,38, for free ,1,skilled,2,none,yes,1
+3/19/2015 16:04,202650,12,paid,education,684, <100 ,4-Jan,4, male,single ,4,car,40,rent,1, unskilled resident ,2,none,yes,1
+7/10/2015 17:38,202651,48,paid,education,7476, <100 ,7-Apr,4, male,single ,1, no known property ,50, for free ,1, high qualif/self emp/mgmt ,1,yes,yes,0
+11/26/2015 12:30,202652,12,paid,furniture/equipment,1922, <100 ,4-Jan,4, male,single ,2, life insurance ,37,own,1, unskilled resident ,1,none,yes,1
+11/4/2015 22:39,202653,24,paid, new car ,2303, <100 , >=7 ,4, male,single ,1, real estate ,45,own,1,skilled,1,none,yes,1
+2/5/2016 17:50,202654,36, delayed, new car ,8086,100-500 , >=7 ,2, male,single ,4,car,42,own,4, high qualif/self emp/mgmt ,1,yes,yes,1
+7/16/2015 22:46,202655,24, critical, used car ,2346, <100 ,7-Apr,4, male,single ,3,car,35,own,2,skilled,1,yes,yes,0
+10/30/2015 22:34,202656,14,paid, new car ,3973, <100 ,unemployed,1, male,single ,4, no known property ,22, for free ,1,skilled,1,none,yes,0
+9/12/2015 12:39,202657,12,paid, new car ,888, <100 , >=7 ,4, male,single ,4,car,41,own,1, unskilled resident ,2,none,yes,1
+2/24/2015 19:55,202658,48,paid,radio/tv,10222, no known savings ,7-Apr,4, male,single ,3,car,37,own,1,skilled,1,yes,yes,0
+8/19/2015 9:10,202659,30, no,business,4221, <100 ,4-Jan,2, female,div/dep/mar ,1,car,28,own,2,skilled,1,none,yes,0
+11/12/2015 20:12,202660,18, critical,furniture/equipment,6361, <100 , >=7 ,2, male,single ,1, no known property ,41,own,1,skilled,1,yes,yes,0
+12/24/2015 10:26,202661,12,paid,radio/tv,1297, <100 ,4-Jan,3, male,mar/wid ,4, real estate ,23,rent,1,skilled,1,none,yes,0
+4/30/2015 14:12,202662,12,paid, new car ,900, no known savings ,4-Jan,4, male,mar/wid ,2,car,23,own,1,skilled,1,none,yes,1
+3/17/2016 22:11,202663,21,paid,furniture/equipment,2241, <100 , >=7 ,4, male,single ,2, real estate ,50,own,2,skilled,1,none,yes,0
+10/3/2015 11:13,202664,6, delayed,furniture/equipment,1050, <100 ,unemployed,4, male,single ,1, life insurance ,35,own,2, high qualif/self emp/mgmt ,1,yes,yes,0
+12/20/2015 22:13,202665,6, critical,education,1047, <100 ,4-Jan,2, female,div/dep/mar ,4, life insurance ,50,own,1, unskilled resident ,1,none,yes,0
+3/8/2016 21:10,202666,24, critical,other,6314, <100 ,unemployed,4, male,single ,2, no known property ,27,own,2, high qualif/self emp/mgmt ,1,yes,yes,0
+11/7/2015 10:24,202667,30, all,furniture/equipment,3496, >=1000 ,4-Jan,4, male,single ,2,car,34,own,1,skilled,2,yes,yes,0
+3/31/2016 19:44,202668,48, all,business,3609, <100 ,4-Jan,1, female,div/dep/mar ,1, real estate ,27,own,1,skilled,1,none,yes,0
+9/26/2015 16:46,202669,12, critical, new car ,4843, <100 , >=7 ,3, male,single ,4, life insurance ,43,rent,2,skilled,1,yes,yes,1
+1/25/2016 16:13,202670,30, critical,radio/tv,3017, <100 , >=7 ,4, male,single ,4, life insurance ,47,own,1,skilled,1,none,yes,0
+9/10/2015 16:17,202671,24, critical,business,4139,100-500 ,4-Jan,3, male,single ,3, life insurance ,27,own,2, unskilled resident ,1,yes,yes,0
+6/4/2015 18:23,202672,36,paid,business,5742,100-500 ,7-Apr,2, male,single ,2,car,31,own,2,skilled,1,yes,yes,0
+4/24/2015 15:58,202673,60,paid, new car ,10366, <100 , >=7 ,2, male,single ,4, life insurance ,42,own,1, high qualif/self emp/mgmt ,1,yes,yes,0
+8/29/2015 14:35,202674,6, critical, new car ,2080,500-1000 ,4-Jan,1, male,mar/wid ,2,car,24,own,1,skilled,1,none,yes,0
+8/12/2015 13:08,202675,21, delayed,business,2580,500-1000 , <1 ,4, male,single ,2, real estate ,41,own,1, unskilled resident ,2,none,yes,1
+6/20/2016 9:32,202676,30, critical,radio/tv,4530, <100 ,7-Apr,4, female,div/dep/mar ,4,car,26,rent,1, high qualif/self emp/mgmt ,1,yes,yes,0
+5/3/2016 12:05,202677,24, critical,furniture/equipment,5150, <100 , >=7 ,4, male,single ,4,car,33,own,1,skilled,1,yes,yes,0
+1/2/2015 19:48,202678,72,paid,radio/tv,5595,100-500 ,4-Jan,2, male,mar/wid ,2,car,24,own,1,skilled,1,none,yes,1
+6/20/2016 9:50,202679,24,paid,radio/tv,2384, <100 , >=7 ,4, male,single ,4, real estate ,64,rent,1, unskilled resident ,1,none,yes,0
+2/23/2015 22:45,202680,18,paid,radio/tv,1453, <100 , <1 ,3, female,div/dep/mar ,1, real estate ,26,own,1,skilled,1,none,yes,0
+3/11/2015 21:03,202681,6,paid,education,1538, <100 , <1 ,1, female,div/dep/mar ,2, no known property ,56,own,1,skilled,1,none,yes,0
+4/28/2016 19:28,202682,12,paid,radio/tv,2279, no known savings ,4-Jan,4, male,single ,4, no known property ,37, for free ,1,skilled,1,yes,yes,0
+11/5/2015 18:48,202683,15, delayed,radio/tv,1478, <100 ,4-Jan,4, male,mar/wid ,3, real estate ,33,own,2,skilled,1,none,yes,0
+1/23/2015 22:54,202684,24, critical,radio/tv,5103, <100 , <1 ,3, male,mar/wid ,3, no known property ,47, for free ,3,skilled,1,yes,yes,0
+5/2/2016 11:43,202685,36, delayed,business,9857,100-500 ,7-Apr,1, male,single ,3, life insurance ,31,own,2, unskilled resident ,2,yes,yes,0
+12/20/2015 8:59,202686,60,paid, new car ,6527, no known savings ,4-Jan,4, male,single ,4, no known property ,34, for free ,1,skilled,2,yes,yes,0
+2/6/2015 12:21,202687,10, critical,radio/tv,1347, no known savings ,7-Apr,4, male,single ,2, life insurance ,27,own,2,skilled,1,yes,yes,0
+6/21/2015 18:09,202688,36, delayed, new car ,2862,100-500 , >=7 ,4, male,single ,3, no known property ,30, for free ,1,skilled,1,none,yes,0
+11/24/2015 19:25,202689,9,paid,radio/tv,2753,100-500 , >=7 ,3, male,single ,4,car,35,own,1,skilled,1,yes,yes,0
+4/29/2015 8:58,202690,12,paid, new car ,3651, >=1000 ,4-Jan,1, male,single ,3, life insurance ,31,own,1,skilled,2,none,yes,0
+9/30/2015 22:30,202691,15, critical,furniture/equipment,975, <100 ,4-Jan,2, male,div/sep ,3, life insurance ,25,own,2,skilled,1,none,yes,0
+10/27/2015 10:11,202692,15,paid,repairs,2631,100-500 ,4-Jan,3, female,div/dep/mar ,2, real estate ,25,own,1, unskilled resident ,1,none,yes,0
+5/4/2015 16:33,202693,24,paid,radio/tv,2896,100-500 , <1 ,2, male,single ,1,car,29,own,1,skilled,1,none,yes,0
+6/14/2015 16:34,202694,6, critical, new car ,4716, no known savings , <1 ,1, male,single ,3, real estate ,44,own,2, unskilled resident ,2,none,yes,0
+11/12/2015 14:35,202695,24,paid,radio/tv,2284, <100 ,7-Apr,4, male,single ,2,car,28,own,1,skilled,1,yes,yes,0
+4/13/2016 9:35,202696,6,paid, used car ,1236,500-1000 ,4-Jan,2, male,single ,4, life insurance ,50,rent,1,skilled,1,none,yes,0
+6/19/2015 12:51,202697,12,paid,radio/tv,1103, <100 ,7-Apr,4, male,single ,3, real estate ,29,own,2,skilled,1,none,no,0
+4/11/2016 21:38,202698,12, critical, new car ,926, <100 ,unemployed,1, female,div/dep/mar ,2, life insurance ,38,own,1, unemp/unskilled non res ,1,none,yes,0
+6/7/2015 14:48,202699,18, critical,radio/tv,1800, <100 ,4-Jan,4, male,single ,2,car,24,own,2,skilled,1,none,yes,0
+8/2/2015 15:50,202700,15,paid,education,1905, <100 , >=7 ,4, male,single ,4,car,40,rent,1, high qualif/self emp/mgmt ,1,yes,yes,0
+10/4/2015 17:15,202701,12,paid,furniture/equipment,1123,500-1000 ,4-Jan,4, female,div/dep/mar ,4,car,29,rent,1, unskilled resident ,1,none,yes,1
+8/10/2015 11:17,202702,48, critical, used car ,6331, <100 , >=7 ,4, male,single ,4, no known property ,46, for free ,2,skilled,1,yes,yes,1
+10/20/2015 11:11,202703,24,paid,radio/tv,1377,100-500 , >=7 ,4, female,div/dep/mar ,2, no known property ,47, for free ,1,skilled,1,yes,yes,0
+2/3/2015 20:46,202704,30, delayed,business,2503,100-500 , >=7 ,4, male,single ,2, life insurance ,41,own,2,skilled,1,none,yes,0
+3/29/2015 20:59,202705,27,paid,business,2528, <100 , <1 ,4, female,div/dep/mar ,1, life insurance ,32,own,1,skilled,2,yes,yes,0
+11/9/2015 21:54,202706,15,paid, new car ,5324,500-1000 , >=7 ,1, female,div/dep/mar ,4, no known property ,35, for free ,1,skilled,1,none,yes,0
+4/28/2015 19:22,202707,48,paid, new car ,6560,100-500 ,7-Apr,3, male,single ,2, life insurance ,24,own,1,skilled,1,none,yes,1
+6/1/2016 16:25,202708,12, no,furniture/equipment,2969, <100 , <1 ,4, female,div/dep/mar ,3, life insurance ,25,rent,2,skilled,1,none,yes,1
+2/25/2015 20:43,202709,9,paid,radio/tv,1206, <100 , >=7 ,4, female,div/dep/mar ,4, real estate ,25,own,1,skilled,1,none,yes,0
+12/25/2015 8:03,202710,9,paid,radio/tv,2118, <100 ,4-Jan,2, male,single ,2, real estate ,37,own,1, unskilled resident ,2,none,yes,0
+1/30/2016 9:37,202711,18, critical,radio/tv,629,500-1000 , >=7 ,4, male,single ,3, life insurance ,32,own,2, high qualif/self emp/mgmt ,1,yes,yes,0
+11/18/2015 12:27,202712,6, all,education,1198, <100 , >=7 ,4, female,div/dep/mar ,4, no known property ,35, for free ,1,skilled,1,none,yes,1
+3/19/2015 11:12,202713,21,paid, used car ,2476, no known savings , >=7 ,4, male,single ,4, real estate ,46,own,1, high qualif/self emp/mgmt ,1,yes,yes,0
+12/17/2015 9:15,202714,9, critical,radio/tv,1138, <100 ,4-Jan,4, male,single ,4, real estate ,25,own,2, unskilled resident ,1,none,yes,0
+9/30/2015 22:33,202715,60,paid, new car ,14027, <100 ,7-Apr,4, male,single ,2, no known property ,27,own,1, high qualif/self emp/mgmt ,1,yes,yes,1
+1/26/2016 14:43,202716,30, critical, used car ,7596, no known savings , >=7 ,1, male,single ,4,car,63,own,2,skilled,1,none,yes,0
+2/20/2015 9:39,202717,30, critical,radio/tv,3077, no known savings , >=7 ,3, male,single ,2,car,40,own,2,skilled,2,yes,yes,0
+12/31/2015 8:03,202718,18,paid,radio/tv,1505, <100 ,4-Jan,4, male,single ,2, no known property ,32, for free ,1, high qualif/self emp/mgmt ,1,yes,yes,0
+7/7/2015 21:16,202719,24, critical,radio/tv,3148, no known savings ,4-Jan,3, male,single ,2,car,31,own,2,skilled,1,yes,yes,0
+4/10/2015 15:14,202720,20, no, used car ,6148,100-500 , >=7 ,3, male,mar/wid ,4,car,31,own,2,skilled,1,yes,yes,0
+2/27/2016 22:23,202721,9, no,radio/tv,1337, <100 , <1 ,4, male,single ,2,car,34,own,2, high qualif/self emp/mgmt ,1,yes,yes,1
+12/17/2015 12:32,202722,6, all,education,433, >=1000 , <1 ,4, female,div/dep/mar ,2, life insurance ,24,rent,1,skilled,2,none,yes,1
+2/11/2016 11:22,202723,12,paid, new car ,1228, <100 ,4-Jan,4, female,div/dep/mar ,2, real estate ,24,own,1, unskilled resident ,1,none,yes,1
+8/19/2015 10:39,202724,9,paid,radio/tv,790,500-1000 ,4-Jan,4, female,div/dep/mar ,3, real estate ,66,own,1, unskilled resident ,1,none,yes,0
+6/29/2015 22:48,202725,27,paid, new car ,2570, <100 ,4-Jan,3, female,div/dep/mar ,3, real estate ,21,rent,1,skilled,1,none,yes,1
+7/6/2015 16:36,202726,6, critical, new car ,250, >=1000 ,4-Jan,2, female,div/dep/mar ,2, real estate ,41,own,2, unskilled resident ,1,none,yes,0
+2/8/2016 8:00,202727,15, critical,radio/tv,1316,500-1000 ,4-Jan,2, male,mar/wid ,2, life insurance ,47,own,2, unskilled resident ,1,none,yes,0
+5/5/2016 22:01,202728,18,paid,radio/tv,1882, <100 ,4-Jan,4, female,div/dep/mar ,4,car,25,rent,2,skilled,1,none,yes,1
+6/1/2015 17:47,202729,48, all,business,6416, <100 , >=7 ,4, female,div/dep/mar ,3, no known property ,59,rent,1,skilled,1,none,yes,1
+10/8/2015 17:56,202730,24, critical,business,1275, >=1000 ,4-Jan,2, male,div/sep ,4, real estate ,36,own,2,skilled,1,yes,yes,0
+11/11/2015 19:17,202731,24, delayed,radio/tv,6403, <100 , <1 ,1, male,single ,2,car,33,own,1,skilled,1,none,yes,0
+3/31/2016 22:07,202732,24,paid,radio/tv,1987, <100 ,4-Jan,2, male,single ,4, real estate ,21,rent,1, unskilled resident ,2,none,yes,1
+5/15/2015 17:28,202733,8,paid,radio/tv,760, <100 ,7-Apr,4, female,div/dep/mar ,2, real estate ,44,own,1, unskilled resident ,1,none,yes,0
+2/4/2015 18:59,202734,24,paid, used car ,2603, >=1000 ,4-Jan,2, female,div/dep/mar ,4,car,28,rent,1,skilled,1,yes,yes,0
+8/13/2015 17:23,202735,4, critical, new car ,3380, <100 ,7-Apr,1, female,div/dep/mar ,1, real estate ,37,own,1,skilled,2,none,yes,0
+2/25/2015 15:09,202736,36, all, domestic appliance ,3990, no known savings , <1 ,3, female,div/dep/mar ,2, no known property ,29,own,1, unemp/unskilled non res ,1,none,yes,0
+1/1/2015 11:03,202737,24,paid, used car ,11560, <100 ,4-Jan,1, female,div/dep/mar ,4,car,23,rent,2, high qualif/self emp/mgmt ,1,none,yes,1
+6/12/2015 10:33,202738,18,paid, new car ,4380,100-500 ,4-Jan,3, male,single ,4,car,35,own,1, unskilled resident ,2,yes,yes,0
+4/6/2016 19:18,202739,6, critical, new car ,6761, <100 ,7-Apr,1, male,single ,3, no known property ,45,own,2, high qualif/self emp/mgmt ,2,yes,yes,0
+5/25/2015 8:21,202740,30, no,business,4280,100-500 ,4-Jan,4, female,div/dep/mar ,4,car,26,rent,2, unskilled resident ,1,none,yes,1
+3/16/2015 13:51,202741,24, all, new car ,2325,100-500 ,7-Apr,2, male,single ,3,car,32,own,1,skilled,1,none,yes,0
+3/24/2016 14:43,202742,10, all,radio/tv,1048, <100 ,4-Jan,4, male,single ,4, real estate ,23,own,1, unskilled resident ,1,none,yes,0
+2/3/2016 17:54,202743,21,paid,radio/tv,3160, no known savings , >=7 ,4, male,single ,3, life insurance ,41,own,1,skilled,1,yes,yes,0
+6/3/2015 10:26,202744,24, all,furniture/equipment,2483,500-1000 ,4-Jan,4, male,single ,4, real estate ,22,own,1,skilled,1,yes,yes,0
+12/9/2015 17:44,202745,39, critical,furniture/equipment,14179, no known savings ,7-Apr,4, male,single ,4, life insurance ,30,own,2, high qualif/self emp/mgmt ,1,yes,yes,0
+10/29/2015 12:54,202746,13, critical,business,1797, <100 , <1 ,3, male,single ,1, life insurance ,28,own,2, unskilled resident ,1,none,yes,0
+10/23/2015 19:58,202747,15,paid, new car ,2511, <100 ,unemployed,1, female,div/dep/mar ,4,car,23,rent,1,skilled,1,none,yes,0
+10/3/2015 16:25,202748,12,paid, new car ,1274, <100 , <1 ,3, female,div/dep/mar ,1, real estate ,37,own,1, unskilled resident ,1,none,yes,1
+1/16/2015 10:26,202749,21,paid, used car ,5248, no known savings ,4-Jan,1, male,single ,3,car,26,own,1,skilled,1,none,yes,0
+1/27/2016 15:18,202750,15,paid, used car ,3029, <100 ,7-Apr,2, male,single ,2,car,33,own,1,skilled,1,none,yes,0
+6/25/2015 19:57,202751,6,paid,furniture/equipment,428, <100 , >=7 ,2, female,div/dep/mar ,1, life insurance ,49,own,1,skilled,1,yes,yes,0
+4/10/2015 10:55,202752,18,paid, new car ,976, <100 , <1 ,1, female,div/dep/mar ,2,car,23,own,1, unskilled resident ,1,none,yes,1
+10/26/2015 19:54,202753,12,paid,business,841,100-500 ,7-Apr,2, female,div/dep/mar ,4, real estate ,23,rent,1, unskilled resident ,1,none,yes,0
+8/3/2015 10:46,202754,30, critical,radio/tv,5771, <100 ,7-Apr,4, female,div/dep/mar ,2,car,25,own,2,skilled,1,none,yes,0
+10/24/2015 19:53,202755,12, delayed,repairs,1555, >=1000 , >=7 ,4, male,single ,4, no known property ,55, for free ,2,skilled,2,none,yes,1
+5/8/2015 14:46,202756,24,paid, new car ,1285, no known savings ,7-Apr,4, female,div/dep/mar ,4, no known property ,32,rent,1,skilled,1,none,yes,1
+9/15/2015 16:07,202757,6, critical, new car ,1299, <100 ,4-Jan,1, male,single ,1, real estate ,74,own,3, unemp/unskilled non res ,2,none,no,0
+11/4/2015 9:17,202758,15, critical,radio/tv,1271, no known savings ,4-Jan,3, male,single ,4, no known property ,39, for free ,2,skilled,1,yes,yes,1
+8/5/2015 12:45,202759,24,paid, new car ,1393, <100 ,4-Jan,2, male,single ,2, real estate ,31,own,1,skilled,1,yes,yes,0
+9/4/2015 8:13,202760,12, critical, new car ,691, <100 , >=7 ,4, male,single ,3, life insurance ,35,own,2,skilled,1,none,yes,1
+6/10/2016 12:24,202761,15, critical, new car ,5045, no known savings , >=7 ,1, female,div/dep/mar ,4,car,59,own,1,skilled,1,yes,yes,0
+12/1/2015 15:37,202762,18, critical,furniture/equipment,2124, <100 ,4-Jan,4, female,div/dep/mar ,4, real estate ,24,rent,2,skilled,1,none,yes,1
+11/13/2015 19:11,202763,12,paid,radio/tv,2214, <100 ,4-Jan,4, male,single ,3, life insurance ,24,own,1, unskilled resident ,1,none,yes,0
+10/13/2015 12:48,202764,21, critical, new car ,12680, no known savings , >=7 ,4, male,single ,4, no known property ,30, for free ,1, high qualif/self emp/mgmt ,1,yes,yes,1
+2/3/2016 10:08,202765,24, critical, new car ,2463,100-500 ,7-Apr,4, male,mar/wid ,3, life insurance ,27,own,2,skilled,1,yes,yes,0
+3/3/2016 20:17,202766,12,paid,radio/tv,1155, <100 , >=7 ,3, male,mar/wid ,3, real estate ,40,own,2, unskilled resident ,1,none,yes,0
+11/10/2015 12:38,202767,30,paid,furniture/equipment,3108, <100 , <1 ,2, male,div/sep ,4, life insurance ,31,own,1, unskilled resident ,1,none,yes,1
+11/6/2015 16:36,202768,10,paid, used car ,2901, no known savings , <1 ,1, female,div/dep/mar ,4, real estate ,31,rent,1,skilled,1,none,yes,0
+2/16/2015 17:19,202769,12, critical,furniture/equipment,3617, <100 , >=7 ,1, male,single ,4,car,28,rent,3,skilled,1,yes,yes,0
+2/26/2015 11:58,202770,12, critical,radio/tv,1655, <100 , >=7 ,2, male,single ,4, real estate ,63,own,2, unskilled resident ,1,yes,yes,0
+12/9/2015 16:29,202771,24,paid, used car ,2812, no known savings , >=7 ,2, female,div/dep/mar ,4, real estate ,26,rent,1,skilled,1,none,yes,0
+1/1/2015 22:51,202772,36, critical,education,8065, <100 ,4-Jan,3, female,div/dep/mar ,2, no known property ,25,own,2, high qualif/self emp/mgmt ,1,yes,yes,1
+4/21/2016 9:40,202773,21, critical, used car ,3275, <100 , >=7 ,1, male,single ,4,car,36,own,1, high qualif/self emp/mgmt ,1,yes,yes,0
+5/5/2015 19:52,202774,24, critical,radio/tv,2223,100-500 , >=7 ,4, male,single ,4, life insurance ,52,own,2,skilled,1,none,yes,0
+11/7/2015 19:40,202775,12, critical, new car ,1480,500-1000 ,unemployed,2, male,single ,4, no known property ,66, for free ,3, unemp/unskilled non res ,1,none,yes,0
+7/12/2015 13:28,202776,24,paid, new car ,1371, no known savings ,4-Jan,4, female,div/dep/mar ,4, real estate ,25,rent,1,skilled,1,none,yes,1
+3/28/2015 11:27,202777,36, critical, new car ,3535, <100 ,7-Apr,4, male,single ,4,car,37,own,2,skilled,1,yes,yes,0
+12/28/2015 12:56,202778,18,paid,radio/tv,3509, <100 ,7-Apr,4, female,div/dep/mar ,1, real estate ,25,own,1,skilled,1,none,yes,0
+2/18/2016 17:46,202779,36, critical, used car ,5711, >=1000 , >=7 ,4, male,single ,2,car,38,own,2, high qualif/self emp/mgmt ,1,yes,yes,0
+10/17/2015 14:39,202780,18,paid,repairs,3872, <100 ,unemployed,2, female,div/dep/mar ,4,car,67,own,1,skilled,1,yes,yes,0
+3/15/2015 19:43,202781,39, critical,radio/tv,4933, <100 ,7-Apr,2, male,single ,2, real estate ,25,own,2,skilled,1,none,yes,1
+12/11/2015 21:35,202782,24, critical, new car ,1940, >=1000 , >=7 ,4, male,single ,4, real estate ,60,own,1,skilled,1,yes,yes,0
+9/19/2015 20:42,202783,12, no,retraining,1410, <100 ,4-Jan,2, male,single ,2, real estate ,31,own,1, unskilled resident ,1,yes,yes,0
+6/7/2015 17:09,202784,12,paid, new car ,836,100-500 , <1 ,4, female,div/dep/mar ,2, life insurance ,23,own,1, unskilled resident ,1,none,yes,1
+8/12/2015 15:25,202785,20,paid, used car ,6468, no known savings ,unemployed,1, male,div/sep ,4, real estate ,60,own,1, high qualif/self emp/mgmt ,1,yes,yes,0
+4/18/2015 15:00,202786,18,paid,business,1941, >=1000 ,4-Jan,4, male,single ,2, life insurance ,35,own,1, unskilled resident ,1,yes,yes,0
+2/18/2016 16:41,202787,22,paid,radio/tv,2675,500-1000 , >=7 ,3, male,single ,4,car,40,own,1,skilled,1,none,yes,0
+5/31/2015 22:36,202788,48, critical, used car ,2751, no known savings , >=7 ,4, male,single ,3,car,38,own,2,skilled,2,yes,yes,0
+12/23/2015 8:59,202789,48, delayed,education,6224, <100 , >=7 ,4, male,single ,4, no known property ,50, for free ,1,skilled,1,none,yes,1
+7/27/2015 10:46,202790,40, critical,education,5998, <100 ,4-Jan,4, male,single ,3, no known property ,27,own,1,skilled,1,yes,yes,1
+11/24/2015 11:44,202791,21,paid,business,1188, <100 , >=7 ,2, female,div/dep/mar ,4, life insurance ,39,own,1,skilled,2,none,yes,1
+7/18/2015 15:55,202792,24,paid, used car ,6313, no known savings , >=7 ,3, male,single ,4,car,41,own,1, high qualif/self emp/mgmt ,2,yes,yes,0
+7/20/2015 22:02,202793,6, critical,furniture/equipment,1221, no known savings ,4-Jan,1, male,mar/wid ,2, life insurance ,27,own,2,skilled,1,none,yes,0
+3/26/2015 19:29,202794,24,paid,furniture/equipment,2892, <100 , >=7 ,3, male,div/sep ,4, no known property ,51, for free ,1,skilled,1,none,yes,0
+4/11/2015 18:11,202795,24,paid,furniture/equipment,3062,500-1000 , >=7 ,4, male,single ,3, no known property ,32,rent,1,skilled,1,yes,yes,0
+3/18/2015 19:00,202796,9,paid,furniture/equipment,2301,100-500 , <1 ,2, female,div/dep/mar ,4, life insurance ,22,rent,1,skilled,1,none,yes,0
+6/30/2015 14:57,202797,18,paid, used car ,7511, no known savings , >=7 ,1, male,single ,4, life insurance ,51, for free ,1,skilled,2,yes,yes,1
+6/30/2015 9:17,202798,12, critical,furniture/equipment,1258, <100 , <1 ,2, female,div/dep/mar ,4, life insurance ,22,rent,2, unskilled resident ,1,none,yes,0
+9/15/2015 10:37,202799,24, delayed, new car ,717, no known savings , >=7 ,4, male,mar/wid ,4,car,54,own,2,skilled,1,yes,yes,0
+6/15/2015 12:43,202800,9,paid, new car ,1549, no known savings , <1 ,4, male,single ,2, real estate ,35,own,1, unemp/unskilled non res ,1,none,yes,0
+1/16/2015 18:17,202801,24, critical,education,1597, <100 , >=7 ,4, male,single ,4, no known property ,54, for free ,2,skilled,2,none,yes,0
+9/9/2015 21:41,202802,18, critical,radio/tv,1795, <100 , >=7 ,3, female,div/dep/mar ,4, real estate ,48,rent,2, unskilled resident ,1,yes,yes,0
+8/1/2015 17:13,202803,20, critical,furniture/equipment,4272, <100 , >=7 ,1, female,div/dep/mar ,4, life insurance ,24,own,2,skilled,1,none,yes,0
+3/6/2015 20:18,202804,12, critical,radio/tv,976, no known savings , >=7 ,4, male,single ,4,car,35,own,2,skilled,1,none,yes,0
+3/5/2015 15:49,202805,12,paid, new car ,7472, no known savings ,unemployed,1, female,div/dep/mar ,2, real estate ,24,rent,1, unemp/unskilled non res ,1,none,yes,0
+4/6/2015 9:14,202806,36,paid, new car ,9271, <100 ,7-Apr,2, male,single ,1,car,24,own,1,skilled,1,yes,yes,1
+5/7/2015 8:37,202807,6,paid,radio/tv,590, <100 , <1 ,3, male,mar/wid ,3, real estate ,26,own,1, unskilled resident ,1,none,no,0
+6/18/2016 19:41,202808,12, critical,radio/tv,930, no known savings , >=7 ,4, male,single ,4, real estate ,65,own,4,skilled,1,none,yes,0
+10/25/2015 14:38,202809,42, all, used car ,9283, <100 ,unemployed,1, male,single ,2, no known property ,55, for free ,1, high qualif/self emp/mgmt ,1,yes,yes,0
+8/10/2015 20:28,202810,15, no, new car ,1778, <100 , <1 ,2, female,div/dep/mar ,1, real estate ,26,rent,2, unemp/unskilled non res ,1,none,yes,1
+3/27/2016 16:43,202811,8,paid,business,907, <100 , <1 ,3, male,mar/wid ,2, real estate ,26,own,1,skilled,1,yes,yes,0
+5/13/2015 11:34,202812,6,paid,radio/tv,484, <100 ,7-Apr,3, male,mar/wid ,3, real estate ,28,own,1, unskilled resident ,1,none,yes,0
+9/6/2015 8:25,202813,36, critical, used car ,9629, <100 ,7-Apr,4, male,single ,4,car,24,own,2,skilled,1,yes,yes,1
+6/14/2016 17:51,202814,48,paid, domestic appliance ,3051, <100 ,4-Jan,3, male,single ,4,car,54,own,1,skilled,1,none,yes,1
+11/8/2015 14:45,202815,48,paid, new car ,3931, <100 ,7-Apr,4, male,single ,4, no known property ,46, for free ,1,skilled,2,none,yes,1
+8/15/2015 19:33,202816,36, delayed, new car ,7432, <100 ,4-Jan,2, female,div/dep/mar ,2, life insurance ,54,rent,1,skilled,1,none,yes,0
+7/17/2015 16:18,202817,6,paid, domestic appliance ,1338,500-1000 ,4-Jan,1, male,div/sep ,4, real estate ,62,own,1,skilled,1,none,yes,0
+4/22/2015 20:45,202818,6, critical,radio/tv,1554, <100 ,7-Apr,1, female,div/dep/mar ,2,car,24,rent,2,skilled,1,yes,yes,0
+10/6/2015 8:46,202819,36,paid,other,15857, <100 ,unemployed,2, male,div/sep ,3,car,43,own,1, high qualif/self emp/mgmt ,1,none,yes,0
+10/26/2015 18:57,202820,18,paid,radio/tv,1345, <100 ,4-Jan,4, male,mar/wid ,3, real estate ,26,own,1,skilled,1,none,yes,1
+1/21/2015 19:03,202821,12,paid, new car ,1101, <100 ,4-Jan,3, male,mar/wid ,2, real estate ,27,own,2,skilled,1,yes,yes,0
+7/16/2015 16:17,202822,12,paid,radio/tv,3016, <100 ,4-Jan,3, male,mar/wid ,1,car,24,own,1,skilled,1,none,yes,0
+3/6/2016 11:57,202823,36,paid,furniture/equipment,2712, <100 , >=7 ,2, male,single ,2, life insurance ,41,own,1,skilled,2,none,yes,1
+10/31/2015 20:26,202824,8, critical, new car ,731, <100 , >=7 ,4, male,single ,4, real estate ,47,own,2, unskilled resident ,1,none,yes,0
+2/24/2016 13:44,202825,18, critical,furniture/equipment,3780, <100 , <1 ,3, male,div/sep ,2,car,35,own,2, high qualif/self emp/mgmt ,1,yes,yes,0
+6/24/2015 21:53,202826,21, critical, new car ,1602, <100 , >=7 ,4, male,mar/wid ,3,car,30,own,2,skilled,1,yes,yes,0
+7/9/2015 16:18,202827,18, critical, new car ,3966, <100 , >=7 ,1, female,div/dep/mar ,4, real estate ,33,rent,3,skilled,1,yes,yes,1
+5/15/2015 14:43,202828,18, no,business,4165, <100 ,4-Jan,2, male,single ,2,car,36,own,2,skilled,2,none,yes,1
+11/29/2015 9:57,202829,36,paid, used car ,8335, no known savings , >=7 ,3, male,single ,4, no known property ,47, for free ,1,skilled,1,none,yes,1
+4/14/2015 21:20,202830,48, delayed,business,6681, no known savings ,4-Jan,4, male,single ,4, no known property ,38, for free ,1,skilled,2,yes,yes,0
+2/11/2015 22:09,202831,24, delayed,business,2375,500-1000 ,4-Jan,4, male,single ,2,car,44,own,2,skilled,2,yes,yes,0
+12/27/2015 21:00,202832,18,paid, new car ,1216, <100 , <1 ,4, female,div/dep/mar ,3,car,23,rent,1,skilled,1,yes,yes,1
+9/12/2015 11:27,202833,45, no,business,11816, <100 , >=7 ,2, male,single ,4,car,29,rent,2,skilled,1,none,yes,1
+5/6/2015 14:44,202834,24,paid,radio/tv,5084, no known savings , >=7 ,2, female,div/dep/mar ,4,car,42,own,1,skilled,1,yes,yes,0
+3/13/2015 13:32,202835,15,paid,radio/tv,2327, <100 , <1 ,2, female,div/dep/mar ,3, real estate ,25,own,1, unskilled resident ,1,none,yes,1
+12/6/2015 10:48,202836,12, no, new car ,1082, <100 ,4-Jan,4, male,single ,4,car,48,own,2,skilled,1,none,yes,1
+7/26/2015 22:02,202837,12,paid,radio/tv,886, no known savings ,4-Jan,4, female,div/dep/mar ,2,car,21,own,1,skilled,1,none,yes,0
+9/21/2015 17:07,202838,4,paid,furniture/equipment,601, <100 , <1 ,1, female,div/dep/mar ,3, real estate ,23,rent,1, unskilled resident ,2,none,yes,0
+10/1/2015 20:12,202839,24, critical, used car ,2957, <100 , >=7 ,4, male,single ,4, life insurance ,63,own,2,skilled,1,yes,yes,0
+2/19/2015 17:44,202840,24, critical,radio/tv,2611, <100 , >=7 ,4, male,mar/wid ,3, real estate ,46,own,2,skilled,1,none,yes,0
+3/28/2016 13:54,202841,36,paid,furniture/equipment,5179, <100 ,7-Apr,4, male,single ,2, life insurance ,29,own,1,skilled,1,none,yes,1
+5/28/2015 9:44,202842,21, delayed, used car ,2993, <100 ,4-Jan,3, male,single ,2, real estate ,28,own,2, unskilled resident ,1,none,yes,0
+3/17/2015 14:28,202843,18,paid,repairs,1943, <100 , <1 ,4, female,div/dep/mar ,4, real estate ,23,own,1,skilled,1,none,yes,1
+8/26/2015 9:22,202844,24, all,business,1559, <100 ,7-Apr,4, male,single ,4,car,50,own,1,skilled,1,yes,yes,0
+11/5/2015 10:11,202845,18,paid,furniture/equipment,3422, <100 , >=7 ,4, male,single ,4, life insurance ,47,own,3,skilled,2,yes,yes,0
+1/9/2016 21:01,202846,21,paid,furniture/equipment,3976, no known savings ,7-Apr,2, male,single ,3,car,35,own,1,skilled,1,yes,yes,0
+1/31/2016 15:48,202847,18,paid, new car ,6761, no known savings ,4-Jan,2, male,single ,4,car,68,rent,2,skilled,1,none,yes,1
+1/21/2015 11:58,202848,24,paid, new car ,1249, <100 , <1 ,4, male,mar/wid ,2, real estate ,28,own,1,skilled,1,none,yes,0
+4/23/2015 19:07,202849,9,paid,radio/tv,1364, <100 ,7-Apr,3, male,single ,4, real estate ,59,own,1,skilled,1,none,yes,0
+7/15/2015 14:52,202850,12,paid,radio/tv,709, <100 , >=7 ,4, male,single ,4, real estate ,57,own,1, unskilled resident ,1,none,yes,1
+7/19/2015 9:11,202851,20, critical, new car ,2235, <100 ,4-Jan,4, male,mar/wid ,2, life insurance ,33,rent,2,skilled,1,none,no,1
+1/29/2016 22:19,202852,24, critical, used car ,4042, no known savings ,7-Apr,3, male,single ,4, life insurance ,43,own,2,skilled,1,yes,yes,0
+6/10/2015 13:49,202853,15, critical,radio/tv,1471, <100 ,4-Jan,4, male,single ,4, no known property ,35, for free ,2,skilled,1,yes,yes,0
+1/29/2016 16:51,202854,18, all, new car ,1442, <100 ,7-Apr,4, male,single ,4, no known property ,32, for free ,2, unskilled resident ,2,none,yes,1
+1/26/2016 17:45,202855,36, delayed, new car ,10875, <100 , >=7 ,2, male,single ,2,car,45,own,2,skilled,2,yes,yes,0
+4/15/2015 16:10,202856,24,paid, new car ,1474,100-500 , <1 ,4, male,mar/wid ,3, real estate ,33,own,1,skilled,1,yes,yes,0
+2/7/2015 20:10,202857,10,paid,retraining,894, no known savings ,7-Apr,4, female,div/dep/mar ,3, life insurance ,40,own,1,skilled,1,yes,yes,0
+3/25/2016 14:09,202858,15, critical,furniture/equipment,3343, <100 ,4-Jan,4, male,single ,2, no known property ,28, for free ,1,skilled,1,yes,yes,0
+12/18/2015 11:42,202859,15,paid, new car ,3959, <100 ,4-Jan,3, female,div/dep/mar ,2, life insurance ,29,own,1,skilled,1,yes,yes,1
+12/31/2015 19:51,202860,9,paid, new car ,3577,100-500 ,4-Jan,1, male,single ,2, real estate ,26,rent,1,skilled,2,none,no,0
+1/6/2015 18:11,202861,24, critical, used car ,5804, >=1000 ,4-Jan,4, male,single ,2, real estate ,27,own,2,skilled,1,none,yes,0
+10/14/2015 13:28,202862,18, delayed,business,2169, <100 ,4-Jan,4, male,mar/wid ,2,car,28,own,1,skilled,1,yes,yes,1
+10/27/2015 15:55,202863,24,paid,radio/tv,2439, <100 , <1 ,4, female,div/dep/mar ,4, real estate ,35,own,1,skilled,1,yes,yes,1
+4/16/2015 17:07,202864,27, critical,furniture/equipment,4526, >=1000 , <1 ,4, male,single ,2, real estate ,32,own,2, unskilled resident ,2,yes,yes,0
+3/1/2015 15:58,202865,10,paid,furniture/equipment,2210, <100 ,4-Jan,2, male,single ,2, real estate ,25,rent,1, unskilled resident ,1,none,yes,1
+4/1/2015 18:54,202866,15,paid,furniture/equipment,2221,500-1000 ,4-Jan,2, female,div/dep/mar ,4,car,20,rent,1,skilled,1,none,yes,0
+2/22/2015 8:25,202867,18,paid,radio/tv,2389, <100 , <1 ,4, female,div/dep/mar ,1,car,27,own,1,skilled,1,none,yes,0
+11/4/2015 16:13,202868,12, critical,furniture/equipment,3331, <100 , >=7 ,2, male,single ,4, life insurance ,42,own,1,skilled,1,none,yes,0
+7/8/2015 20:03,202869,36,paid,business,7409, no known savings , >=7 ,3, male,single ,2, life insurance ,37,own,2,skilled,1,none,yes,0
+6/27/2016 10:08,202870,12,paid,furniture/equipment,652, <100 , >=7 ,4, female,div/dep/mar ,4, life insurance ,24,rent,1,skilled,1,none,yes,0
+1/4/2015 15:11,202871,36, delayed,furniture/equipment,7678,500-1000 ,7-Apr,2, female,div/dep/mar ,4,car,40,own,2,skilled,1,yes,yes,0
+2/26/2015 22:50,202872,6, critical, new car ,1343, <100 , >=7 ,1, male,single ,4, real estate ,46,own,2,skilled,2,none,no,0
+6/22/2015 16:47,202873,24, critical,business,1382,100-500 ,7-Apr,4, male,single ,1, real estate ,26,own,2,skilled,1,yes,yes,0
+2/17/2015 13:01,202874,15,paid, domestic appliance ,874, no known savings , <1 ,4, female,div/dep/mar ,1, real estate ,24,own,1,skilled,1,none,yes,0
+5/1/2015 19:29,202875,12,paid,furniture/equipment,3590, <100 ,4-Jan,2, male,single ,2, life insurance ,29,own,1, unskilled resident ,2,none,yes,0
+9/29/2015 9:03,202876,11, critical, new car ,1322, >=1000 ,4-Jan,4, female,div/dep/mar ,4,car,40,own,2,skilled,1,none,yes,0
+1/12/2016 8:14,202877,18, all,radio/tv,1940, <100 , <1 ,3, male,single ,4, no known property ,36, for free ,1, high qualif/self emp/mgmt ,1,yes,yes,0
+2/24/2016 16:43,202878,36,paid,radio/tv,3595, <100 , >=7 ,4, male,single ,2,car,28,own,1,skilled,1,none,yes,0
+11/16/2015 19:52,202879,9,paid, new car ,1422, <100 , <1 ,3, male,single ,2, no known property ,27, for free ,1, high qualif/self emp/mgmt ,1,yes,yes,1
+5/27/2015 8:55,202880,30, critical,radio/tv,6742, no known savings ,7-Apr,2, male,single ,3, life insurance ,36,own,2,skilled,1,none,yes,0
+7/6/2015 17:45,202881,24,paid, used car ,7814, <100 ,7-Apr,3, male,single ,3,car,38,own,1, high qualif/self emp/mgmt ,1,yes,yes,0
+5/15/2016 17:35,202882,24,paid, used car ,9277, no known savings ,4-Jan,2, male,div/sep ,4, no known property ,48, for free ,1,skilled,1,yes,yes,0
+6/19/2015 15:14,202883,30, critical, new car ,2181, no known savings , >=7 ,4, male,single ,4, real estate ,36,own,2,skilled,1,none,yes,0
+3/8/2015 19:37,202884,18, critical,radio/tv,1098, <100 ,unemployed,4, female,div/dep/mar ,4,car,65,own,2, unemp/unskilled non res ,1,none,yes,0
+12/16/2015 15:07,202885,24,paid,furniture/equipment,4057, <100 ,7-Apr,3, male,div/sep ,3,car,43,own,1,skilled,1,yes,yes,1
+9/24/2015 22:08,202886,12,paid,education,795, <100 , <1 ,4, female,div/dep/mar ,4, life insurance ,53,own,1,skilled,1,none,yes,1
+7/18/2015 19:43,202887,24, critical,business,2825, no known savings ,7-Apr,4, male,single ,3, no known property ,34,own,2,skilled,2,yes,yes,0
+6/16/2015 22:09,202888,48,paid,business,15672, <100 ,4-Jan,2, male,single ,2,car,23,own,1,skilled,1,yes,yes,1
+8/11/2015 12:10,202889,36, critical, new car ,6614, <100 , >=7 ,4, male,single ,4,car,34,own,2, high qualif/self emp/mgmt ,1,yes,yes,0
+7/29/2015 15:24,202890,28, all, used car ,7824, no known savings , <1 ,3, male,single ,4, real estate ,40,rent,2,skilled,2,yes,yes,0
+11/23/2015 19:32,202891,27, critical,business,2442, <100 , >=7 ,4, male,single ,4,car,43,own,4, high qualif/self emp/mgmt ,2,yes,yes,0
+2/18/2015 8:18,202892,15, critical,radio/tv,1829, <100 , >=7 ,4, male,single ,4,car,46,own,2,skilled,1,yes,yes,0
+2/18/2015 8:35,202893,12, critical, new car ,2171, <100 ,4-Jan,4, male,single ,4, life insurance ,38,own,2, unskilled resident ,1,none,no,0
+10/23/2015 20:49,202894,36, critical, used car ,5800, <100 ,4-Jan,3, male,single ,4,car,34,own,2,skilled,1,yes,yes,0
+6/15/2015 17:24,202895,18, critical,radio/tv,1169, no known savings ,4-Jan,4, male,single ,3, life insurance ,29,own,2,skilled,1,yes,yes,0
+2/25/2016 18:47,202896,36, delayed, used car ,8947, no known savings ,7-Apr,3, male,single ,2,car,31,own,1, high qualif/self emp/mgmt ,2,yes,yes,0
+2/26/2015 19:45,202897,21,paid,radio/tv,2606, <100 , <1 ,4, female,div/dep/mar ,4, life insurance ,28,rent,1, high qualif/self emp/mgmt ,1,yes,yes,0
+2/3/2016 20:55,202898,12, critical,furniture/equipment,1592, >=1000 ,7-Apr,3, female,div/dep/mar ,2, life insurance ,35,own,1,skilled,1,none,no,0
+6/22/2015 17:47,202899,15,paid,furniture/equipment,2186, no known savings ,7-Apr,1, female,div/dep/mar ,4, real estate ,33,rent,1, unskilled resident ,1,none,yes,0
+11/11/2015 14:36,202900,18,paid,furniture/equipment,4153, <100 ,4-Jan,2, male,single ,3,car,42,own,1,skilled,1,none,yes,1
+3/30/2016 20:34,202901,16, critical, new car ,2625, <100 , >=7 ,2, male,single ,4, life insurance ,43,rent,1,skilled,1,yes,yes,1
+10/8/2015 18:20,202902,20, critical, new car ,3485, no known savings , <1 ,2, male,div/sep ,4, real estate ,44,own,2,skilled,1,yes,yes,0
+6/2/2015 16:46,202903,36, critical, used car ,10477, no known savings , >=7 ,2, male,single ,4, no known property ,42, for free ,2,skilled,1,none,yes,0
+5/18/2015 19:37,202904,15,paid,radio/tv,1386, no known savings ,4-Jan,4, male,mar/wid ,2, real estate ,40,rent,1,skilled,1,yes,yes,0
+5/18/2016 13:22,202905,24,paid,radio/tv,1278, <100 , >=7 ,4, male,single ,1, real estate ,36,own,1, high qualif/self emp/mgmt ,1,yes,yes,0
+5/4/2015 8:34,202906,12,paid,radio/tv,1107, <100 ,4-Jan,2, male,single ,2, real estate ,20,rent,1, high qualif/self emp/mgmt ,2,yes,yes,0
+8/15/2015 17:19,202907,21,paid, new car ,3763, no known savings ,7-Apr,2, male,single ,2, real estate ,24,own,1, unskilled resident ,1,none,no,0
+3/22/2015 10:23,202908,36,paid,education,3711, no known savings ,4-Jan,2, male,mar/wid ,2,car,27,own,1,skilled,1,none,yes,0
+6/2/2015 18:14,202909,15, delayed, used car ,3594, <100 , <1 ,1, female,div/dep/mar ,2, life insurance ,46,own,2, unskilled resident ,1,none,yes,0
+5/22/2015 11:29,202910,9,paid, new car ,3195, no known savings ,4-Jan,1, female,div/dep/mar ,2, real estate ,33,own,1, unskilled resident ,1,none,yes,0
+1/6/2015 12:00,202911,36, delayed,radio/tv,4454, <100 ,4-Jan,4, female,div/dep/mar ,4, real estate ,34,own,2,skilled,1,none,yes,0
+7/13/2015 15:04,202912,24, critical,furniture/equipment,4736, <100 , <1 ,2, female,div/dep/mar ,4,car,25,own,1, unskilled resident ,1,none,yes,1
+11/24/2015 10:38,202913,30,paid,radio/tv,2991, no known savings , >=7 ,2, female,div/dep/mar ,4,car,25,own,1,skilled,1,none,yes,0
+12/4/2015 15:56,202914,11,paid,business,2142, >=1000 , >=7 ,1, male,div/sep ,2, real estate ,28,own,1,skilled,1,yes,yes,0
+12/1/2015 12:34,202915,24, all,business,3161, <100 ,4-Jan,4, male,single ,2, life insurance ,31,rent,1,skilled,1,yes,yes,1
+7/7/2015 18:00,202916,48, no,other,18424, <100 ,4-Jan,1, female,div/dep/mar ,2, life insurance ,32,own,1, high qualif/self emp/mgmt ,1,yes,no,1
+7/6/2015 20:51,202917,10,paid, used car ,2848,100-500 ,4-Jan,1, male,single ,2, real estate ,32,own,1,skilled,2,none,yes,0
+9/29/2015 11:53,202918,6,paid, new car ,14896, <100 , >=7 ,1, male,single ,4, no known property ,68,own,1, high qualif/self emp/mgmt ,1,yes,yes,1
+8/21/2015 13:42,202919,24,paid,furniture/equipment,2359,100-500 ,unemployed,1, male,div/sep ,1, life insurance ,33,own,1,skilled,1,none,yes,1
+9/18/2015 13:52,202920,24,paid,furniture/equipment,3345, <100 , >=7 ,4, male,single ,2, life insurance ,39,rent,1, high qualif/self emp/mgmt ,1,yes,yes,1
+8/1/2015 19:36,202921,18, critical,furniture/equipment,1817, <100 ,4-Jan,4, female,div/dep/mar ,2, no known property ,28,own,2,skilled,1,none,yes,0
+3/30/2016 14:59,202922,48, delayed,radio/tv,12749,500-1000 ,7-Apr,4, male,single ,1,car,37,own,1, high qualif/self emp/mgmt ,1,yes,yes,0
+8/3/2015 22:32,202923,9,paid,radio/tv,1366, <100 , <1 ,3, female,div/dep/mar ,4, life insurance ,22,rent,1,skilled,1,none,yes,1
+1/5/2015 8:26,202924,12,paid, new car ,2002, <100 ,7-Apr,3, male,single ,4, life insurance ,30,rent,1,skilled,2,yes,yes,0
+4/4/2015 11:29,202925,24, all,furniture/equipment,6872, <100 , <1 ,2, male,div/sep ,1, life insurance ,55,own,1,skilled,1,yes,yes,1
+1/25/2015 19:13,202926,12, all, new car ,697, <100 , <1 ,4, male,single ,2,car,46,own,2,skilled,1,yes,yes,1
+4/4/2015 8:26,202927,18, critical,furniture/equipment,1049, <100 , <1 ,4, female,div/dep/mar ,4, life insurance ,21,rent,1,skilled,1,none,yes,0
+2/21/2015 14:29,202928,48,paid, used car ,10297, <100 ,7-Apr,4, male,single ,4, no known property ,39, for free ,3,skilled,2,yes,yes,1
+5/3/2015 22:37,202929,30,paid,radio/tv,1867, no known savings , >=7 ,4, male,single ,4,car,58,own,1,skilled,1,yes,yes,0
+4/29/2015 16:07,202930,12, delayed, new car ,1344, <100 ,4-Jan,4, male,single ,2, real estate ,43,own,2, unskilled resident ,2,none,yes,0
+11/17/2015 18:57,202931,24,paid,furniture/equipment,1747, <100 , <1 ,4, male,single ,1, life insurance ,24,own,1, unskilled resident ,1,none,no,0
+8/6/2015 19:44,202932,9,paid,radio/tv,1670, <100 , <1 ,4, female,div/dep/mar ,2,car,22,own,1,skilled,1,yes,yes,1
+10/28/2015 9:33,202933,9, critical, new car ,1224, <100 ,4-Jan,3, male,single ,1, real estate ,30,own,2,skilled,1,none,yes,0
+3/11/2016 17:01,202934,12, critical,radio/tv,522,500-1000 , >=7 ,4, male,single ,4, life insurance ,42,own,2,skilled,2,yes,yes,0
+8/15/2015 14:44,202935,12,paid,radio/tv,1498, <100 ,4-Jan,4, female,div/dep/mar ,1,car,23,own,1,skilled,1,none,yes,0
+7/30/2015 20:50,202936,30, delayed,radio/tv,1919,100-500 , <1 ,4, male,single ,3, no known property ,30,own,2, high qualif/self emp/mgmt ,1,none,yes,1
+11/10/2015 13:02,202937,9,paid,radio/tv,745, <100 ,4-Jan,3, female,div/dep/mar ,2, real estate ,28,own,1, unskilled resident ,1,none,yes,1
+8/10/2015 16:39,202938,6,paid,radio/tv,2063, <100 , <1 ,4, male,mar/wid ,3,car,30,rent,1, high qualif/self emp/mgmt ,1,yes,yes,0
+12/6/2015 9:29,202939,60,paid,education,6288, <100 ,4-Jan,4, male,single ,4, no known property ,42, for free ,1,skilled,1,none,yes,1
+6/27/2016 22:21,202940,24, critical, used car ,6842, no known savings ,4-Jan,2, male,single ,4, life insurance ,46,own,2, high qualif/self emp/mgmt ,2,yes,yes,0
+11/26/2015 8:27,202941,12,paid, new car ,3527, no known savings , <1 ,2, male,single ,3, life insurance ,45,own,1, high qualif/self emp/mgmt ,2,yes,yes,0
+6/4/2015 17:42,202942,10,paid, new car ,1546, <100 ,4-Jan,3, male,single ,2, real estate ,31,own,1, unskilled resident ,2,none,no,0
+9/21/2015 17:08,202943,24,paid,furniture/equipment,929, no known savings ,7-Apr,4, male,single ,2,car,31,own,1,skilled,1,yes,yes,0
+3/17/2015 21:28,202944,4, critical, new car ,1455, <100 ,7-Apr,2, male,single ,1, real estate ,42,own,3, unskilled resident ,2,none,yes,0
+4/13/2015 14:13,202945,15,paid,furniture/equipment,1845, <100 , <1 ,4, female,div/dep/mar ,1, life insurance ,46,rent,1,skilled,1,none,yes,0
+5/8/2016 14:06,202946,48, no, new car ,8358,500-1000 , <1 ,1, female,div/dep/mar ,1,car,30,own,2,skilled,1,none,yes,0
+6/26/2015 14:50,202947,24, all,furniture/equipment,3349,500-1000 , <1 ,4, male,single ,4, no known property ,30, for free ,1,skilled,2,yes,yes,1
+11/1/2015 8:49,202948,12,paid, new car ,2859, no known savings ,unemployed,4, male,single ,4, no known property ,38,own,1, high qualif/self emp/mgmt ,1,yes,yes,0
+7/24/2015 13:46,202949,18,paid,furniture/equipment,1533, <100 , <1 ,4, male,mar/wid ,1, life insurance ,43,own,1, unskilled resident ,2,none,yes,1
+6/5/2015 18:01,202950,24,paid,radio/tv,3621,100-500 , >=7 ,2, male,single ,4,car,31,own,2,skilled,1,none,yes,1
+4/1/2015 22:09,202951,18, critical,business,3590, <100 ,unemployed,3, male,mar/wid ,3,car,40,own,3, unemp/unskilled non res ,2,yes,yes,0
+8/15/2015 20:33,202952,36, delayed,business,2145, <100 ,7-Apr,2, male,single ,1,car,24,own,2,skilled,1,yes,yes,1
+4/23/2016 13:53,202953,24,paid, used car ,4113,500-1000 , <1 ,3, female,div/dep/mar ,4,car,28,rent,1,skilled,1,none,yes,1
+12/30/2015 17:29,202954,36,paid,furniture/equipment,10974, <100 ,unemployed,4, female,div/dep/mar ,2,car,26,own,2, high qualif/self emp/mgmt ,1,yes,yes,1
+12/17/2015 17:34,202955,12,paid, new car ,1893, <100 ,4-Jan,4, female,div/dep/mar ,4, life insurance ,29,own,1,skilled,1,yes,yes,0
+3/13/2015 8:04,202956,24, critical,radio/tv,1231, >=1000 , >=7 ,4, female,div/dep/mar ,4, life insurance ,57,rent,2, high qualif/self emp/mgmt ,1,yes,yes,0
+12/3/2015 12:38,202957,30, critical,radio/tv,3656, no known savings , >=7 ,4, male,single ,4, life insurance ,49,own,2, unskilled resident ,1,none,yes,0
+6/29/2015 16:30,202958,9, critical,radio/tv,1154, <100 , >=7 ,2, male,single ,4, real estate ,37,own,3, unskilled resident ,1,none,yes,0
+10/27/2015 18:21,202959,28,paid, new car ,4006, <100 ,4-Jan,3, male,single ,2,car,45,own,1, unskilled resident ,1,none,yes,1
+7/16/2015 10:39,202960,24,paid,furniture/equipment,3069,100-500 , >=7 ,4, male,single ,4, no known property ,30, for free ,1,skilled,1,none,yes,0
+4/4/2015 14:26,202961,6, critical,radio/tv,1740, <100 , >=7 ,2, male,mar/wid ,2, real estate ,30,rent,2,skilled,1,none,yes,0
+1/18/2016 15:37,202962,21, delayed, new car ,2353, <100 ,4-Jan,1, male,div/sep ,4, life insurance ,47,own,2,skilled,1,none,yes,0
+1/20/2015 19:13,202963,15,paid, new car ,3556, no known savings ,4-Jan,3, male,single ,2, no known property ,29,own,1,skilled,1,none,yes,0
+3/18/2016 15:00,202964,24,paid,radio/tv,2397,500-1000 , >=7 ,3, male,single ,2,car,35,own,2,skilled,1,yes,yes,1
+6/19/2015 19:27,202965,6,paid,repairs,454, <100 , <1 ,3, male,mar/wid ,1, life insurance ,22,own,1, unskilled resident ,1,none,yes,0
+7/17/2015 8:03,202966,30,paid,radio/tv,1715, no known savings ,4-Jan,4, female,div/dep/mar ,1,car,26,own,1,skilled,1,none,yes,0
+2/5/2015 22:48,202967,27, critical,radio/tv,2520,500-1000 ,4-Jan,4, male,single ,2, life insurance ,23,own,2, unskilled resident ,1,none,yes,1
+5/26/2015 11:08,202968,15,paid,radio/tv,3568, <100 , >=7 ,4, female,div/dep/mar ,2,car,54,rent,1, high qualif/self emp/mgmt ,1,yes,yes,0
+11/11/2015 13:17,202969,42,paid,radio/tv,7166, no known savings ,7-Apr,2, male,mar/wid ,4, life insurance ,29,rent,1,skilled,1,yes,yes,0
+8/17/2015 21:20,202970,11, critical, new car ,3939, <100 ,4-Jan,1, male,single ,2, real estate ,40,own,2, unskilled resident ,2,none,yes,0
+2/6/2015 11:04,202971,15,paid,repairs,1514,100-500 ,4-Jan,4, male,single ,2, real estate ,22,own,1,skilled,1,none,yes,0
+6/11/2016 19:25,202972,24,paid, new car ,7393, <100 ,4-Jan,1, male,single ,4, life insurance ,43,own,1, unskilled resident ,2,none,yes,0
+5/13/2015 19:17,202973,24, all, new car ,1193, <100 ,unemployed,1, female,div/dep/mar ,4, no known property ,29,rent,2, unemp/unskilled non res ,1,none,yes,1
+1/30/2015 9:21,202974,60,paid,business,7297, <100 , >=7 ,4, male,single ,4, no known property ,36,rent,1,skilled,1,none,yes,1
+1/6/2016 8:20,202975,30, critical,radio/tv,2831, <100 ,4-Jan,4, female,div/dep/mar ,2,car,33,own,1,skilled,1,yes,yes,0
+2/9/2015 13:22,202976,24,paid,radio/tv,1258,500-1000 ,4-Jan,3, female,div/dep/mar ,3,car,57,own,1, unskilled resident ,1,none,yes,0
+1/25/2015 22:55,202977,6,paid,radio/tv,753, <100 ,4-Jan,2, female,div/dep/mar ,3, real estate ,64,own,1,skilled,1,none,yes,0
+2/12/2016 15:40,202978,18, delayed,business,2427, no known savings , >=7 ,4, male,single ,2, life insurance ,42,own,2,skilled,1,none,yes,0
+2/14/2016 20:24,202979,24, delayed, new car ,2538, <100 , >=7 ,4, male,single ,4,car,47,own,2, unskilled resident ,2,none,yes,1
+10/22/2015 12:33,202980,15, all, new car ,1264,100-500 ,4-Jan,2, male,mar/wid ,2, life insurance ,25,rent,1,skilled,1,none,yes,1
+10/20/2015 18:44,202981,30, critical,furniture/equipment,8386, <100 ,7-Apr,2, male,single ,2, life insurance ,49,own,1,skilled,1,none,yes,1
+5/13/2016 12:58,202982,48,paid,business,4844, <100 ,unemployed,3, male,single ,2,car,33,rent,1, high qualif/self emp/mgmt ,1,yes,yes,1
+11/13/2015 19:02,202983,21,paid, new car ,2923,100-500 ,4-Jan,1, female,div/dep/mar ,1,car,28,own,1, high qualif/self emp/mgmt ,1,yes,yes,0
+4/21/2015 20:00,202984,36,paid, used car ,8229, <100 ,4-Jan,2, male,single ,2, life insurance ,26,own,1,skilled,2,none,yes,1
+10/27/2015 12:30,202985,24, critical,furniture/equipment,2028, <100 ,7-Apr,2, male,single ,2, life insurance ,30,own,2, unskilled resident ,1,none,yes,0
+6/6/2016 16:56,202986,15, critical,furniture/equipment,1433, <100 ,4-Jan,4, female,div/dep/mar ,3, life insurance ,25,rent,2,skilled,1,none,yes,0
+5/10/2015 19:14,202987,42, no,business,6289, <100 , <1 ,2, male,div/sep ,1, life insurance ,33,own,2,skilled,1,none,yes,0
+9/18/2015 12:39,202988,13,paid,radio/tv,1409,100-500 ,unemployed,2, female,div/dep/mar ,4, real estate ,64,own,1,skilled,1,none,yes,0
+10/7/2015 18:31,202989,24,paid, used car ,6579, <100 ,unemployed,4, male,single ,2, no known property ,29, for free ,1, high qualif/self emp/mgmt ,1,yes,yes,0
+8/1/2015 19:47,202990,24, critical,radio/tv,1743, <100 , >=7 ,4, male,single ,2, life insurance ,48,own,2, unskilled resident ,1,none,yes,0
+9/9/2015 16:49,202991,12, critical,education,3565, no known savings , <1 ,2, male,single ,1, life insurance ,37,own,2, unskilled resident ,2,none,yes,0
+1/18/2015 13:13,202992,15, all,radio/tv,1569,100-500 , >=7 ,4, male,single ,4,car,34,own,1, unskilled resident ,2,none,yes,0
+2/20/2015 21:28,202993,18,paid,radio/tv,1936, no known savings ,7-Apr,2, male,mar/wid ,4,car,23,rent,2, unskilled resident ,1,none,yes,0
+10/4/2015 10:52,202994,36,paid,furniture/equipment,3959, <100 ,unemployed,4, male,single ,3, life insurance ,30,own,1, high qualif/self emp/mgmt ,1,yes,yes,0
+4/16/2016 22:25,202995,12,paid, new car ,2390, no known savings , >=7 ,4, male,single ,3,car,50,own,1,skilled,1,yes,yes,0
+5/12/2015 17:15,202996,12,paid,furniture/equipment,1736, <100 ,7-Apr,3, female,div/dep/mar ,4, real estate ,31,own,1, unskilled resident ,1,none,yes,0
+5/22/2015 21:24,202997,30,paid, used car ,3857, <100 ,4-Jan,4, male,div/sep ,4, life insurance ,40,own,1, high qualif/self emp/mgmt ,1,yes,yes,0
+8/9/2015 12:56,202998,12,paid,radio/tv,804, <100 , >=7 ,4, male,single ,4,car,38,own,1,skilled,1,none,yes,0
+5/3/2015 18:50,202999,45,paid,radio/tv,1845, <100 ,4-Jan,4, male,single ,4, no known property ,23, for free ,1,skilled,1,yes,yes,1
+11/27/2015 15:19,203000,45, critical, used car ,4576,100-500 ,unemployed,3, male,single ,4,car,27,own,1,skilled,1,none,yes,0
